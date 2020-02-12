@@ -8,7 +8,7 @@ See [LICENCE](LICENCE).
 
 Install the latest version with
 ```shell
-pip install git+https://github.com/yuvipanda/hubtraf.git
+pip install git+https://github.com/oneilsh/hubtraf.git
 ```
 
 For scripting abilities refer to [hubtraf/\_\_main\_\_.py](hubtraf/__main__.py)
