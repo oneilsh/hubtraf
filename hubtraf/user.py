@@ -233,7 +233,10 @@ class User:
                                 elif msg['msg_type'] == 'stream':
                                     response = msg['content']['text']
                                 if response:
-                                    assert response == output
+                                    if response == output:
+                                        self.log.msg('Response equals output', response=response, output=output)
+                                    else:
+                                        self.log.msg('Response does NOT equal output', response=response, output=output)
                                     duration = time.monotonic() - exec_start_time
                                     break
                     # Sleep a random amount of time between 0 and 1s, so we aren't busylooping
