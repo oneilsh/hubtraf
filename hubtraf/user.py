@@ -23,7 +23,7 @@ class User:
         KERNEL_STARTED = 4
 
     async def __aenter__(self):
-        self.session = aiohttp.ClientSession()
+        self.session = aiohttp.ClientSession(connector=aiohttp.TCPConnector(verify_ssl=False))
         return self
 
     async def __aexit__(self, exc_type, exc, tb):
