@@ -83,7 +83,7 @@ class User:
     # wait before slowing down their refresh time by doubling it
     # refresh time is regenerated for each attempt based on the mean and sd values
     async def ensure_server(self, 
-                            timeout_mean=1200,
+                            timeout_mean=1800,
                             timeout_sd=120,
                             spawn_refresh_time_mean=10, 
                             spawn_refresh_time_sd=2, 
@@ -98,7 +98,6 @@ class User:
         self.log.msg(f'Server: Starting', action='server-start', phase='start')
         i = 0
         while True:
-            i += 1
             self.log.msg(f'Server: Attempting to Starting', action='server-start', phase='attempt-start', attempt=i + 1)
             try:
                 resp = await self.session.get(self.hub_url / 'hub/spawn')
@@ -122,10 +121,13 @@ class User:
                 self.log.msg('Server: Doubling Refresh Interval', action='server-start', phase='waiting', duration=time.monotonic() - start_time)
                 spawn_refresh_time_mean = spawn_refresh_time_mean * 2
                 spawn_refresh_time_sd = spawn_refresh_time_sd * 2
+                doubling_time = doubling_time * 2
             # Always log retries, so we can count 'in-progress' actions
             self.log.msg('Server: Retrying', action='server-start', phase='attempt-complete', duration=time.monotonic() - start_time, attempt=i + 1)
             refresh_wait = max(5, np.random.normal(spawn_refresh_time_mean, spawn_refresh_time_sd))
             await asyncio.sleep(refresh_wait)
+            
+            i += 1
         
         self.state = User.States.SERVER_STARTED
 
@@ -264,8 +266,8 @@ class User:
                                             self.log.msg('Response does NOT equal output, trying again', response=response, output=output)
                                         duration = time.monotonic() - exec_start_time
                                         break
-                        # Sleep a random amount of time between 1 and 4s, so we aren't busylooping
-                        await asyncio.sleep(random.uniform(1, 4))
+                    # Sleep a random amount of time between 1 and 4s, so we aren't busylooping
+                    await asyncio.sleep(random.uniform(1, 4))
     
                 self.log.msg(
                     'Code Execute: complete', 

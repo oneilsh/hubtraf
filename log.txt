@@ -1,0 +1,1102 @@
+[2m2020-05-19T23:32:47.392426Z[0m [1mLogin: Complete               [0m [36maction[0m=[35mlogin[0m [36mduration[0m=[35m0.7974276069999999[0m [36mphase[0m=[35mcomplete[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:32:47.393401Z[0m [1mServer: Starting              [0m [36maction[0m=[35mserver-start[0m [36mphase[0m=[35mstart[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:32:47.393459Z[0m [1mServer: Attempting to Starting[0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m1[0m [36mphase[0m=[35mattempt-start[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:32:47.711502Z[0m [1mServer: Retrying              [0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m1[0m [36mduration[0m=[35m0.318104363[0m [36mphase[0m=[35mattempt-complete[0m [36musername[0m=[35mhubtraf-176[0m
+2020-05-19T23:32:47.794758Z Login: Complete                action=login duration=0.19994792399999994 phase=complete username=hubtraf-131
+2020-05-19T23:32:47.795106Z Server: Starting               action=server-start phase=start username=hubtraf-131
+2020-05-19T23:32:47.795287Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-131
+2020-05-19T23:32:47.975263Z Server: Retrying               action=server-start attempt=1 duration=0.180159803 phase=attempt-complete username=hubtraf-131
+2020-05-19T23:32:48.921729Z Login: Complete                action=login duration=0.32239970299999987 phase=complete username=hubtraf-83
+2020-05-19T23:32:48.921981Z Server: Starting               action=server-start phase=start username=hubtraf-83
+2020-05-19T23:32:48.922152Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-83
+2020-05-19T23:32:48.978099Z Login: Complete                action=login duration=0.3774955480000002 phase=complete username=hubtraf-152
+2020-05-19T23:32:48.978425Z Server: Starting               action=server-start phase=start username=hubtraf-152
+2020-05-19T23:32:48.978705Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-152
+2020-05-19T23:32:49.222806Z Server: Retrying               action=server-start attempt=1 duration=0.3008318489999997 phase=attempt-complete username=hubtraf-83
+2020-05-19T23:32:49.272068Z Server: Retrying               action=server-start attempt=1 duration=0.29365763700000036 phase=attempt-complete username=hubtraf-152
+2020-05-19T23:32:49.862052Z Login: Complete                action=login duration=0.26827124300000005 phase=complete username=hubtraf-3
+2020-05-19T23:32:49.862302Z Server: Starting               action=server-start phase=start username=hubtraf-3
+2020-05-19T23:32:49.862439Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-3
+2020-05-19T23:32:50.039408Z Server: Retrying               action=server-start attempt=1 duration=0.17710308799999996 phase=attempt-complete username=hubtraf-3
+2020-05-19T23:32:50.898731Z Login: Complete                action=login duration=0.3005127879999998 phase=complete username=hubtraf-147
+2020-05-19T23:32:50.899196Z Server: Starting               action=server-start phase=start username=hubtraf-147
+2020-05-19T23:32:50.899413Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-147
+2020-05-19T23:32:51.161188Z Server: Retrying               action=server-start attempt=1 duration=0.26199516899999953 phase=attempt-complete username=hubtraf-147
+2020-05-19T23:32:51.815439Z Login: Complete                action=login duration=0.21872303900000034 phase=complete username=hubtraf-19
+2020-05-19T23:32:51.815782Z Server: Starting               action=server-start phase=start username=hubtraf-19
+2020-05-19T23:32:51.815991Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-19
+2020-05-19T23:32:51.854621Z Login: Complete                action=login duration=0.2568386879999993 phase=complete username=hubtraf-33
+2020-05-19T23:32:51.854969Z Server: Starting               action=server-start phase=start username=hubtraf-33
+2020-05-19T23:32:51.855147Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-33
+2020-05-19T23:32:52.035511Z Login: Complete                action=login duration=0.43681480900000036 phase=complete username=hubtraf-160
+2020-05-19T23:32:52.035851Z Server: Starting               action=server-start phase=start username=hubtraf-160
+2020-05-19T23:32:52.036031Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-160
+2020-05-19T23:32:52.163788Z Server: Retrying               action=server-start attempt=1 duration=0.34801551500000016 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:32:52.324913Z Server: Retrying               action=server-start attempt=1 duration=0.4699528129999999 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:32:52.373017Z Server: Retrying               action=server-start attempt=1 duration=0.3371691090000004 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:32:52.936419Z Login: Complete                action=login duration=0.3422191459999997 phase=complete username=hubtraf-91
+2020-05-19T23:32:52.936780Z Server: Starting               action=server-start phase=start username=hubtraf-91
+2020-05-19T23:32:52.936921Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-91
+2020-05-19T23:32:53.102886Z Server: Retrying               action=server-start attempt=1 duration=0.16611924199999972 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:32:53.876203Z Login: Complete                action=login duration=0.282047253 phase=complete username=hubtraf-109
+2020-05-19T23:32:53.876500Z Server: Starting               action=server-start phase=start username=hubtraf-109
+2020-05-19T23:32:53.876641Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-109
+2020-05-19T23:32:54.066901Z Server: Retrying               action=server-start attempt=1 duration=0.1904032030000007 phase=attempt-complete username=hubtraf-109
+[2m2020-05-19T23:32:54.934705Z[0m [1mServer: Attempting to Starting[0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m2[0m [36mphase[0m=[35mattempt-start[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:32:55.046851Z[0m [1mServer: Retrying              [0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m2[0m [36mduration[0m=[35m7.653678367[0m [36mphase[0m=[35mattempt-complete[0m [36musername[0m=[35mhubtraf-176[0m
+2020-05-19T23:32:55.582910Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-83
+2020-05-19T23:32:55.693490Z Server: Retrying               action=server-start attempt=2 duration=6.771708353999999 phase=attempt-complete username=hubtraf-83
+2020-05-19T23:32:57.651289Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-147
+2020-05-19T23:32:58.016259Z Server: Retrying               action=server-start attempt=2 duration=7.117276534 phase=attempt-complete username=hubtraf-147
+2020-05-19T23:32:58.828488Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-152
+2020-05-19T23:32:58.867051Z Login: Complete                action=login duration=0.2703445240000004 phase=complete username=hubtraf-112
+2020-05-19T23:32:58.867402Z Server: Starting               action=server-start phase=start username=hubtraf-112
+2020-05-19T23:32:58.867584Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-112
+2020-05-19T23:32:59.071542Z Server: Retrying               action=server-start attempt=2 duration=10.093431284000001 phase=attempt-complete username=hubtraf-152
+2020-05-19T23:32:59.104275Z Server: Retrying               action=server-start attempt=1 duration=0.23687587999999948 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:32:59.670983Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-131
+2020-05-19T23:32:59.734456Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-3
+2020-05-19T23:32:59.838223Z Login: Complete                action=login duration=0.24020450599999954 phase=complete username=hubtraf-61
+2020-05-19T23:32:59.838598Z Server: Starting               action=server-start phase=start username=hubtraf-61
+2020-05-19T23:32:59.838936Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-61
+2020-05-19T23:32:59.888760Z Server: Retrying               action=server-start attempt=2 duration=12.09401145 phase=attempt-complete username=hubtraf-131
+2020-05-19T23:33:00.040222Z Server: Retrying               action=server-start attempt=2 duration=10.178223476 phase=attempt-complete username=hubtraf-3
+2020-05-19T23:33:00.089771Z Server: Retrying               action=server-start attempt=1 duration=0.2511530009999987 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:33:00.251047Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-160
+2020-05-19T23:33:00.389869Z Server: Retrying               action=server-start attempt=2 duration=8.354265903 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:33:01.854151Z Login: Complete                action=login duration=0.25607530399999945 phase=complete username=hubtraf-88
+2020-05-19T23:33:01.854514Z Server: Starting               action=server-start phase=start username=hubtraf-88
+2020-05-19T23:33:01.854684Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-88
+2020-05-19T23:33:02.049921Z Server: Retrying               action=server-start attempt=1 duration=0.19541141000000017 phase=attempt-complete username=hubtraf-88
+2020-05-19T23:33:03.873809Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-33
+2020-05-19T23:33:03.991611Z Server: Retrying               action=server-start attempt=2 duration=12.137011593999999 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:33:04.111686Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-19
+2020-05-19T23:33:04.222922Z Server: Retrying               action=server-start attempt=2 duration=12.407517359000002 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:33:04.896756Z Login: Complete                action=login duration=0.2982293150000004 phase=complete username=hubtraf-156
+2020-05-19T23:33:04.897099Z Server: Starting               action=server-start phase=start username=hubtraf-156
+2020-05-19T23:33:04.897372Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-156
+2020-05-19T23:33:05.107384Z Server: Retrying               action=server-start attempt=1 duration=0.21028903899999918 phase=attempt-complete username=hubtraf-156
+[2m2020-05-19T23:33:05.335704Z[0m [1mServer: Attempting to Starting[0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m3[0m [36mphase[0m=[35mattempt-start[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:33:05.456548Z[0m [1mServer: Retrying              [0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m3[0m [36mduration[0m=[35m18.063694369[0m [36mphase[0m=[35mattempt-complete[0m [36musername[0m=[35mhubtraf-176[0m
+2020-05-19T23:33:05.599239Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-91
+2020-05-19T23:33:05.714843Z Server: Retrying               action=server-start attempt=2 duration=12.778458921999999 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:33:05.821758Z Login: Complete                action=login duration=0.22353653200000068 phase=complete username=hubtraf-103
+2020-05-19T23:33:05.822104Z Server: Starting               action=server-start phase=start username=hubtraf-103
+2020-05-19T23:33:05.822286Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-103
+2020-05-19T23:33:06.011337Z Server: Retrying               action=server-start attempt=1 duration=0.18923303200000063 phase=attempt-complete username=hubtraf-103
+2020-05-19T23:33:06.339919Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-83
+2020-05-19T23:33:06.455516Z Server: Retrying               action=server-start attempt=3 duration=17.534063139 phase=attempt-complete username=hubtraf-83
+2020-05-19T23:33:06.838949Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-109
+2020-05-19T23:33:06.963538Z Server: Retrying               action=server-start attempt=2 duration=13.087435448 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:33:08.192103Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-147
+2020-05-19T23:33:08.391901Z Server: Retrying               action=server-start attempt=3 duration=17.493233732999997 phase=attempt-complete username=hubtraf-147
+2020-05-19T23:33:08.499299Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-152
+2020-05-19T23:33:08.600609Z Server: Retrying               action=server-start attempt=3 duration=19.622785163 phase=attempt-complete username=hubtraf-152
+2020-05-19T23:33:08.699910Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-112
+2020-05-19T23:33:08.756035Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-3
+2020-05-19T23:33:08.830000Z Login: Complete                action=login duration=0.233741706 phase=complete username=hubtraf-25
+2020-05-19T23:33:08.830375Z Server: Starting               action=server-start phase=start username=hubtraf-25
+2020-05-19T23:33:08.830631Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-25
+2020-05-19T23:33:08.872841Z Server: Retrying               action=server-start attempt=2 duration=10.005735170000001 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:33:09.018669Z Server: Retrying               action=server-start attempt=3 duration=19.156948587000002 phase=attempt-complete username=hubtraf-3
+2020-05-19T23:33:09.076509Z Server: Retrying               action=server-start attempt=1 duration=0.24614030900000117 phase=attempt-complete username=hubtraf-25
+2020-05-19T23:33:09.778911Z Login: Complete                action=login duration=0.18205195399999852 phase=complete username=hubtraf-43
+2020-05-19T23:33:09.779387Z Server: Starting               action=server-start phase=start username=hubtraf-43
+2020-05-19T23:33:09.779829Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-43
+2020-05-19T23:33:09.853038Z Login: Complete                action=login duration=0.2551313780000015 phase=complete username=hubtraf-165
+2020-05-19T23:33:09.853378Z Server: Starting               action=server-start phase=start username=hubtraf-165
+2020-05-19T23:33:09.853560Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-165
+2020-05-19T23:33:10.194936Z Server: Retrying               action=server-start attempt=1 duration=0.4155635440000012 phase=attempt-complete username=hubtraf-43
+2020-05-19T23:33:10.230264Z Server: Retrying               action=server-start attempt=1 duration=0.37689424299999885 phase=attempt-complete username=hubtraf-165
+2020-05-19T23:33:11.102612Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-61
+2020-05-19T23:33:11.117557Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-19
+2020-05-19T23:33:11.236460Z Server: Retrying               action=server-start attempt=2 duration=11.398204947 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:33:11.263151Z Server: Retrying               action=server-start attempt=3 duration=19.447945501 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:33:11.634132Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-131
+2020-05-19T23:33:11.785112Z Login: Complete                action=login duration=0.19150991000000062 phase=complete username=hubtraf-8
+2020-05-19T23:33:11.785451Z Server: Starting               action=server-start phase=start username=hubtraf-8
+2020-05-19T23:33:11.785631Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-8
+2020-05-19T23:33:11.859992Z Login: Complete                action=login duration=0.2644555910000008 phase=complete username=hubtraf-41
+2020-05-19T23:33:11.860208Z Server: Starting               action=server-start phase=start username=hubtraf-41
+2020-05-19T23:33:11.860311Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-41
+2020-05-19T23:33:11.885612Z Server: Retrying               action=server-start attempt=3 duration=24.091241499 phase=attempt-complete username=hubtraf-131
+2020-05-19T23:33:12.100106Z Login: Complete                action=login duration=0.5054503940000004 phase=complete username=hubtraf-16
+2020-05-19T23:33:12.100464Z Server: Starting               action=server-start phase=start username=hubtraf-16
+2020-05-19T23:33:12.100646Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-16
+2020-05-19T23:33:12.374264Z Server: Retrying               action=server-start attempt=1 duration=0.5888244890000003 phase=attempt-complete username=hubtraf-8
+2020-05-19T23:33:12.397221Z Server: Retrying               action=server-start attempt=1 duration=0.5370165510000007 phase=attempt-complete username=hubtraf-41
+2020-05-19T23:33:12.442283Z Server: Retrying               action=server-start attempt=1 duration=0.341821754999998 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:33:13.248216Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-88
+2020-05-19T23:33:13.396801Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-33
+2020-05-19T23:33:13.445834Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-109
+2020-05-19T23:33:13.449983Z Server: Retrying               action=server-start attempt=2 duration=11.59582345 phase=attempt-complete username=hubtraf-88
+2020-05-19T23:33:13.540020Z Server: Retrying               action=server-start attempt=3 duration=21.685710993999997 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:33:13.576363Z Server: Retrying               action=server-start attempt=3 duration=19.700459340000002 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:33:13.770224Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-160
+2020-05-19T23:33:13.868580Z Login: Complete                action=login duration=0.2718194380000014 phase=complete username=hubtraf-20
+2020-05-19T23:33:13.868936Z Server: Starting               action=server-start phase=start username=hubtraf-20
+2020-05-19T23:33:13.869126Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-20
+2020-05-19T23:33:13.892340Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-103
+2020-05-19T23:33:14.090518Z Server: Retrying               action=server-start attempt=3 duration=22.055333001 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:33:14.115974Z Server: Retrying               action=server-start attempt=2 duration=8.294123001000003 phase=attempt-complete username=hubtraf-103
+2020-05-19T23:33:14.162605Z Server: Retrying               action=server-start attempt=1 duration=0.29367847700000027 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:33:14.894370Z Login: Complete                action=login duration=0.2956481119999985 phase=complete username=hubtraf-128
+2020-05-19T23:33:14.894723Z Server: Starting               action=server-start phase=start username=hubtraf-128
+2020-05-19T23:33:14.894904Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-128
+2020-05-19T23:33:15.044979Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-91
+2020-05-19T23:33:15.058893Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-156
+2020-05-19T23:33:15.194406Z Server: Retrying               action=server-start attempt=1 duration=0.29968577399999674 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:33:15.227863Z Server: Retrying               action=server-start attempt=3 duration=22.29177228 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:33:15.260101Z Server: Retrying               action=server-start attempt=2 duration=10.363317867 phase=attempt-complete username=hubtraf-156
+2020-05-19T23:33:15.781561Z Login: Complete                action=login duration=0.18444927999999905 phase=complete username=hubtraf-38
+2020-05-19T23:33:15.781919Z Server: Starting               action=server-start phase=start username=hubtraf-38
+2020-05-19T23:33:15.782106Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-38
+[2m2020-05-19T23:33:15.783418Z[0m [1mServer: Attempting to Starting[0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m4[0m [36mphase[0m=[35mattempt-start[0m [36musername[0m=[35mhubtraf-176[0m
+2020-05-19T23:33:15.922169Z Login: Complete                action=login duration=0.32399674900000264 phase=complete username=hubtraf-96
+2020-05-19T23:33:15.922512Z Server: Starting               action=server-start phase=start username=hubtraf-96
+2020-05-19T23:33:15.922694Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-96
+2020-05-19T23:33:15.924070Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-83
+2020-05-19T23:33:16.249309Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-112
+[2m2020-05-19T23:33:16.290705Z[0m [1mServer: Retrying              [0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m4[0m [36mduration[0m=[35m28.898157704000003[0m [36mphase[0m=[35mattempt-complete[0m [36musername[0m=[35mhubtraf-176[0m
+2020-05-19T23:33:16.371817Z Server: Retrying               action=server-start attempt=1 duration=0.589910408999998 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:33:16.418577Z Server: Retrying               action=server-start attempt=1 duration=0.4960713960000014 phase=attempt-complete username=hubtraf-96
+2020-05-19T23:33:16.536356Z Server: Retrying               action=server-start attempt=3 duration=17.669488356 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:33:16.667936Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=27.746794425 phase=complete username=hubtraf-83
+2020-05-19T23:33:16.668334Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-83
+2020-05-19T23:33:16.824034Z Kernel: Started                action=kernel-start duration=0.15550018600000115 phase=complete username=hubtraf-83
+2020-05-19T23:33:16.824419Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-83
+2020-05-19T23:33:17.851283Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-152
+2020-05-19T23:33:17.868510Z Login: Complete                action=login duration=0.2705000840000018 phase=complete username=hubtraf-31
+2020-05-19T23:33:17.868852Z Server: Starting               action=server-start phase=start username=hubtraf-31
+2020-05-19T23:33:17.869094Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-31
+2020-05-19T23:33:17.939731Z Login: Complete                action=login duration=0.3406833710000008 phase=complete username=hubtraf-113
+2020-05-19T23:33:17.940072Z Server: Starting               action=server-start phase=start username=hubtraf-113
+2020-05-19T23:33:17.940251Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-113
+2020-05-19T23:33:18.031581Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-83
+2020-05-19T23:33:18.031833Z Code Execute: Started          action=code-execute phase=start username=hubtraf-83
+2020-05-19T23:33:18.116461Z Execute Success                output=done response=done username=hubtraf-83
+2020-05-19T23:33:18.282816Z Server: Retrying               action=server-start attempt=1 duration=0.41397519199999877 phase=attempt-complete username=hubtraf-31
+2020-05-19T23:33:18.733318Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-3
+2020-05-19T23:33:18.763782Z Server: Retrying               action=server-start attempt=1 duration=0.8237304149999964 phase=attempt-complete username=hubtraf-113
+2020-05-19T23:33:18.796709Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-147
+2020-05-19T23:33:18.882583Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=29.905070853999998 phase=complete username=hubtraf-152
+2020-05-19T23:33:18.882977Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-152
+2020-05-19T23:33:18.954740Z Kernel: Started                action=kernel-start duration=0.07142611000000443 phase=complete username=hubtraf-152
+2020-05-19T23:33:18.955129Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-152
+2020-05-19T23:33:19.363823Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=29.502390577 phase=complete username=hubtraf-3
+2020-05-19T23:33:19.364646Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-3
+2020-05-19T23:33:19.406513Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-165
+2020-05-19T23:33:19.420815Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=28.522489141 phase=complete username=hubtraf-147
+2020-05-19T23:33:19.421153Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-147
+2020-05-19T23:33:19.507927Z Kernel: Started                action=kernel-start duration=0.14307607100000297 phase=complete username=hubtraf-3
+2020-05-19T23:33:19.508237Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-3
+2020-05-19T23:33:19.535604Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-8
+2020-05-19T23:33:19.543009Z Server: Retrying               action=server-start attempt=2 duration=9.689922880999998 phase=attempt-complete username=hubtraf-165
+2020-05-19T23:33:19.551596Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-25
+2020-05-19T23:33:19.568923Z Kernel: Started                action=kernel-start duration=0.14756974000000156 phase=complete username=hubtraf-147
+2020-05-19T23:33:19.569337Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-147
+2020-05-19T23:33:19.654239Z Server: Retrying               action=server-start attempt=2 duration=7.869027327999998 phase=attempt-complete username=hubtraf-8
+2020-05-19T23:33:19.702113Z Server: Retrying               action=server-start attempt=2 duration=10.872070662999999 phase=attempt-complete username=hubtraf-25
+2020-05-19T23:33:19.793079Z Login: Complete                action=login duration=0.19535415500000397 phase=complete username=hubtraf-62
+2020-05-19T23:33:19.793442Z Server: Starting               action=server-start phase=start username=hubtraf-62
+2020-05-19T23:33:19.793624Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-62
+2020-05-19T23:33:19.859409Z Login: Complete                action=login duration=0.26294366500000166 phase=complete username=hubtraf-42
+2020-05-19T23:33:19.859751Z Server: Starting               action=server-start phase=start username=hubtraf-42
+2020-05-19T23:33:19.859930Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-42
+2020-05-19T23:33:20.143731Z Server: Retrying               action=server-start attempt=1 duration=0.3502933200000058 phase=attempt-complete username=hubtraf-62
+2020-05-19T23:33:20.202223Z Server: Retrying               action=server-start attempt=1 duration=0.342480639999998 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:33:20.294557Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-61
+2020-05-19T23:33:20.407919Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-152
+2020-05-19T23:33:20.408109Z Code Execute: Started          action=code-execute phase=start username=hubtraf-152
+2020-05-19T23:33:20.416261Z Server: Retrying               action=server-start attempt=3 duration=20.578291663 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:33:20.509041Z Execute Success                output=done response=done username=hubtraf-152
+2020-05-19T23:33:20.907717Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-3
+2020-05-19T23:33:20.907954Z Code Execute: Started          action=code-execute phase=start username=hubtraf-3
+2020-05-19T23:33:20.964158Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-147
+2020-05-19T23:33:20.964389Z Code Execute: Started          action=code-execute phase=start username=hubtraf-147
+2020-05-19T23:33:21.012358Z Execute Success                output=done response=done username=hubtraf-3
+2020-05-19T23:33:21.061855Z Execute Success                output=done response=done username=hubtraf-147
+2020-05-19T23:33:21.258203Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-88
+2020-05-19T23:33:21.769172Z Server: Started (JupyterLab)   action=server-start attempt=3 duration=19.915260119000003 phase=complete username=hubtraf-88
+2020-05-19T23:33:21.769547Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-88
+2020-05-19T23:33:21.821832Z Login: Complete                action=login duration=0.22544047099999887 phase=complete username=hubtraf-130
+2020-05-19T23:33:21.822063Z Server: Starting               action=server-start phase=start username=hubtraf-130
+2020-05-19T23:33:21.822230Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-130
+2020-05-19T23:33:21.992491Z Kernel: Started                action=kernel-start duration=0.22275718499999897 phase=complete username=hubtraf-88
+2020-05-19T23:33:21.992921Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-88
+2020-05-19T23:33:21.998280Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-19
+2020-05-19T23:33:22.017763Z Server: Retrying               action=server-start attempt=1 duration=0.19571011299999697 phase=attempt-complete username=hubtraf-130
+2020-05-19T23:33:22.116377Z Server: Retrying               action=server-start attempt=4 duration=30.301513858 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:33:22.175323Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-16
+2020-05-19T23:33:22.312306Z Server: Retrying               action=server-start attempt=2 duration=10.212148136999996 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:33:22.814527Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-33
+2020-05-19T23:33:22.843357Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-131
+2020-05-19T23:33:22.865848Z Login: Complete                action=login duration=0.2670107040000005 phase=complete username=hubtraf-173
+2020-05-19T23:33:22.866132Z Server: Starting               action=server-start phase=start username=hubtraf-173
+2020-05-19T23:33:22.866273Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-173
+2020-05-19T23:33:23.055549Z Server: Retrying               action=server-start attempt=4 duration=31.20152253 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:33:23.122569Z Server: Retrying               action=server-start attempt=1 duration=0.25643910500000544 phase=attempt-complete username=hubtraf-173
+2020-05-19T23:33:23.342682Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=35.548657284 phase=complete username=hubtraf-131
+2020-05-19T23:33:23.343038Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-131
+2020-05-19T23:33:23.503945Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-43
+2020-05-19T23:33:23.508813Z Kernel: Started                action=kernel-start duration=0.1655805229999956 phase=complete username=hubtraf-131
+2020-05-19T23:33:23.509309Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-131
+2020-05-19T23:33:23.533857Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-109
+2020-05-19T23:33:23.612728Z Server: Retrying               action=server-start attempt=2 duration=13.833766738999998 phase=attempt-complete username=hubtraf-43
+2020-05-19T23:33:23.645901Z Server: Retrying               action=server-start attempt=4 duration=29.770305282000002 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:33:23.708495Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-20
+2020-05-19T23:33:23.812618Z Server: Retrying               action=server-start attempt=2 duration=9.943981714 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:33:23.911639Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-41
+2020-05-19T23:33:24.048112Z Server: Retrying               action=server-start attempt=2 duration=12.188265642000001 phase=attempt-complete username=hubtraf-41
+2020-05-19T23:33:24.063096Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-103
+2020-05-19T23:33:24.166538Z Server: Retrying               action=server-start attempt=3 duration=18.344993671 phase=attempt-complete username=hubtraf-103
+2020-05-19T23:33:24.369630Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-91
+2020-05-19T23:33:24.510688Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-160
+2020-05-19T23:33:24.514523Z Server: Retrying               action=server-start attempt=4 duration=31.578713643 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:33:24.618135Z Server: Retrying               action=server-start attempt=4 duration=32.583272042000004 phase=attempt-complete username=hubtraf-160
+[2m2020-05-19T23:33:24.618801Z[0m [1mServer: Attempting to Starting[0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m5[0m [36mphase[0m=[35mattempt-start[0m [36musername[0m=[35mhubtraf-176[0m
+2020-05-19T23:33:24.679959Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-131
+2020-05-19T23:33:24.680191Z Code Execute: Started          action=code-execute phase=start username=hubtraf-131
+2020-05-19T23:33:24.780212Z Execute Success                output=done response=done username=hubtraf-131
+2020-05-19T23:33:24.875125Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-88
+2020-05-19T23:33:24.875354Z Code Execute: Started          action=code-execute phase=start username=hubtraf-88
+2020-05-19T23:33:25.002581Z Execute Success                output=done response=done username=hubtraf-88
+[2m2020-05-19T23:33:25.088502Z[0m [1mServer: Started (JupyterLab)  [0m [36maction[0m=[35mserver-start[0m [36mattempt[0m=[35m5[0m [36mduration[0m=[35m37.696248038[0m [36mphase[0m=[35mcomplete[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:33:25.088672Z[0m [1mKernel: Starting              [0m [36maction[0m=[35mkernel-start[0m [36mphase[0m=[35mstart[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:33:25.164933Z[0m [1mKernel: Started               [0m [36maction[0m=[35mkernel-start[0m [36mduration[0m=[35m0.07620005700000121[0m [36mphase[0m=[35mcomplete[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:33:25.165104Z[0m [1mWS: Connecting                [0m [36maction[0m=[35mkernel-connect[0m [36mphase[0m=[35mstart[0m [36musername[0m=[35mhubtraf-176[0m
+2020-05-19T23:33:25.811751Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-128
+2020-05-19T23:33:25.947968Z Login: Complete                action=login duration=0.353138677000004 phase=complete username=hubtraf-66
+2020-05-19T23:33:25.948328Z Server: Starting               action=server-start phase=start username=hubtraf-66
+2020-05-19T23:33:25.948554Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-66
+2020-05-19T23:33:25.970598Z Server: Retrying               action=server-start attempt=2 duration=11.076209408 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:33:26.134100Z Server: Retrying               action=server-start attempt=1 duration=0.18577222999999776 phase=attempt-complete username=hubtraf-66
+[2m2020-05-19T23:33:26.176557Z[0m [1mWS: Connected                 [0m [36maction[0m=[35mkernel-connect[0m [36mphase[0m=[35mcomplete[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:33:26.176700Z[0m [1mCode Execute: Started         [0m [36maction[0m=[35mcode-execute[0m [36mphase[0m=[35mstart[0m [36musername[0m=[35mhubtraf-176[0m
+[2m2020-05-19T23:33:26.260087Z[0m [1mExecute Success               [0m [36moutput[0m=[35mdone[0m [36mresponse[0m=[35mdone[0m [36musername[0m=[35mhubtraf-176[0m
+2020-05-19T23:33:26.886003Z Login: Complete                action=login duration=0.2902408270000052 phase=complete username=hubtraf-72
+2020-05-19T23:33:26.886428Z Server: Starting               action=server-start phase=start username=hubtraf-72
+2020-05-19T23:33:26.886734Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-72
+2020-05-19T23:33:26.951035Z Login: Complete                action=login duration=0.3541996529999949 phase=complete username=hubtraf-101
+2020-05-19T23:33:26.951341Z Server: Starting               action=server-start phase=start username=hubtraf-101
+2020-05-19T23:33:26.951532Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-101
+2020-05-19T23:33:27.212648Z Server: Retrying               action=server-start attempt=1 duration=0.3262334929999966 phase=attempt-complete username=hubtraf-72
+2020-05-19T23:33:27.282871Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-38
+2020-05-19T23:33:27.315505Z Server: Retrying               action=server-start attempt=1 duration=0.3641733780000038 phase=attempt-complete username=hubtraf-101
+2020-05-19T23:33:27.394767Z Server: Retrying               action=server-start attempt=2 duration=11.613196797 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:33:27.617041Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-156
+2020-05-19T23:33:27.732831Z Server: Retrying               action=server-start attempt=3 duration=22.836424381 phase=attempt-complete username=hubtraf-156
+2020-05-19T23:33:27.754504Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-16
+2020-05-19T23:33:27.931691Z Server: Retrying               action=server-start attempt=3 duration=15.831703487999999 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:33:28.000281Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-42
+2020-05-19T23:33:28.106055Z Server: Retrying               action=server-start attempt=2 duration=8.246549781999995 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:33:28.212397Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-96
+2020-05-19T23:33:28.312300Z Server: Retrying               action=server-start attempt=2 duration=12.390160108999996 phase=attempt-complete username=hubtraf-96
+2020-05-19T23:33:28.386822Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-165
+2020-05-19T23:33:28.505234Z Server: Retrying               action=server-start attempt=3 duration=18.652419034 phase=attempt-complete username=hubtraf-165
+2020-05-19T23:33:28.654317Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-112
+2020-05-19T23:33:28.764362Z Server: Retrying               action=server-start attempt=4 duration=29.897867484 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:33:29.016918Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-25
+2020-05-19T23:33:29.184952Z Server: Retrying               action=server-start attempt=3 duration=20.355198224000002 phase=attempt-complete username=hubtraf-25
+2020-05-19T23:33:29.704530Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-31
+2020-05-19T23:33:29.812783Z Server: Retrying               action=server-start attempt=2 duration=11.944290135 phase=attempt-complete username=hubtraf-31
+2020-05-19T23:33:30.114476Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-113
+2020-05-19T23:33:30.213706Z Server: Retrying               action=server-start attempt=2 duration=12.274008755999997 phase=attempt-complete username=hubtraf-113
+2020-05-19T23:33:30.220323Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-173
+2020-05-19T23:33:30.283164Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-43
+2020-05-19T23:33:30.342148Z Server: Retrying               action=server-start attempt=2 duration=7.476225957000004 phase=attempt-complete username=hubtraf-173
+2020-05-19T23:33:30.404355Z Server: Retrying               action=server-start attempt=3 duration=20.625594047 phase=attempt-complete username=hubtraf-43
+2020-05-19T23:33:30.600164Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-62
+2020-05-19T23:33:30.731950Z Server: Retrying               action=server-start attempt=2 duration=10.938838952000005 phase=attempt-complete username=hubtraf-62
+2020-05-19T23:33:30.973244Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-61
+2020-05-19T23:33:31.079595Z Server: Retrying               action=server-start attempt=4 duration=31.241941407 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:33:31.110279Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-91
+2020-05-19T23:33:31.225129Z Server: Retrying               action=server-start attempt=5 duration=38.28952408 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:33:32.150707Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-130
+2020-05-19T23:33:32.266567Z Server: Retrying               action=server-start attempt=2 duration=10.444830173 phase=attempt-complete username=hubtraf-130
+2020-05-19T23:33:32.324177Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-20
+2020-05-19T23:33:32.374131Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-8
+2020-05-19T23:33:32.462133Z Server: Retrying               action=server-start attempt=3 duration=18.593762487000003 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:33:32.547166Z Server: Retrying               action=server-start attempt=3 duration=20.762344420999998 phase=attempt-complete username=hubtraf-8
+2020-05-19T23:33:33.820232Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-38
+2020-05-19T23:33:33.878411Z Login: Complete                action=login duration=0.283999632000004 phase=complete username=hubtraf-119
+2020-05-19T23:33:33.878755Z Server: Starting               action=server-start phase=start username=hubtraf-119
+2020-05-19T23:33:33.878937Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-119
+2020-05-19T23:33:34.029449Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-160
+2020-05-19T23:33:34.042190Z Server: Retrying               action=server-start attempt=3 duration=18.260801805 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:33:34.058407Z Server: Retrying               action=server-start attempt=1 duration=0.17965763300000503 phase=attempt-complete username=hubtraf-119
+2020-05-19T23:33:34.148919Z Server: Retrying               action=server-start attempt=5 duration=42.114352607 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:33:34.627449Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-19
+2020-05-19T23:33:34.752000Z Server: Retrying               action=server-start attempt=5 duration=42.937522078 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:33:34.844046Z Login: Complete                action=login duration=0.25111630399999996 phase=complete username=hubtraf-127
+2020-05-19T23:33:34.844386Z Server: Starting               action=server-start phase=start username=hubtraf-127
+2020-05-19T23:33:34.844582Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-127
+2020-05-19T23:33:34.895534Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-103
+2020-05-19T23:33:35.028369Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-33
+2020-05-19T23:33:35.037191Z Server: Retrying               action=server-start attempt=1 duration=0.1928050060000004 phase=attempt-complete username=hubtraf-127
+2020-05-19T23:33:35.133661Z Server: Retrying               action=server-start attempt=5 duration=43.280012027999994 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:33:35.338708Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-109
+2020-05-19T23:33:35.421159Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=29.599956532000004 phase=complete username=hubtraf-103
+2020-05-19T23:33:35.421465Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-103
+2020-05-19T23:33:35.453207Z Server: Retrying               action=server-start attempt=5 duration=41.577970936 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:33:35.578712Z Kernel: Started                action=kernel-start duration=0.15710567799999353 phase=complete username=hubtraf-103
+2020-05-19T23:33:35.579018Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-103
+2020-05-19T23:33:35.779977Z Login: Complete                action=login duration=0.1857967929999944 phase=complete username=hubtraf-106
+2020-05-19T23:33:35.780299Z Server: Starting               action=server-start phase=start username=hubtraf-106
+2020-05-19T23:33:35.780439Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-106
+2020-05-19T23:33:35.861320Z Login: Complete                action=login duration=0.2678998820000018 phase=complete username=hubtraf-97
+2020-05-19T23:33:35.861686Z Server: Starting               action=server-start phase=start username=hubtraf-97
+2020-05-19T23:33:35.861867Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-97
+2020-05-19T23:33:36.100740Z Server: Retrying               action=server-start attempt=1 duration=0.32043999399999734 phase=attempt-complete username=hubtraf-106
+2020-05-19T23:33:36.122318Z Server: Retrying               action=server-start attempt=1 duration=0.26062974100000247 phase=attempt-complete username=hubtraf-97
+2020-05-19T23:33:36.138612Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-128
+2020-05-19T23:33:36.254407Z Server: Retrying               action=server-start attempt=3 duration=21.360330957999995 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:33:36.933547Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-66
+2020-05-19T23:33:37.054188Z Server: Retrying               action=server-start attempt=2 duration=11.106199248000003 phase=attempt-complete username=hubtraf-66
+2020-05-19T23:33:37.126493Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-103
+2020-05-19T23:33:37.126732Z Code Execute: Started          action=code-execute phase=start username=hubtraf-103
+2020-05-19T23:33:37.247917Z Execute Success                output=done response=done username=hubtraf-103
+2020-05-19T23:33:37.383593Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-165
+2020-05-19T23:33:37.749250Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-16
+2020-05-19T23:33:37.780890Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=27.928358933000002 phase=complete username=hubtraf-165
+2020-05-19T23:33:37.781252Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-165
+2020-05-19T23:33:37.802576Z Login: Complete                action=login duration=0.20911652099999856 phase=complete username=hubtraf-15
+2020-05-19T23:33:37.802872Z Server: Starting               action=server-start phase=start username=hubtraf-15
+2020-05-19T23:33:37.803015Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-15
+2020-05-19T23:33:37.858419Z Kernel: Started                action=kernel-start duration=0.07689480199999821 phase=complete username=hubtraf-165
+2020-05-19T23:33:37.859110Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-165
+2020-05-19T23:33:37.966711Z Server: Retrying               action=server-start attempt=4 duration=25.867029474000002 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:33:37.999940Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-101
+2020-05-19T23:33:38.017430Z Server: Retrying               action=server-start attempt=1 duration=0.21455692400000004 phase=attempt-complete username=hubtraf-15
+2020-05-19T23:33:38.112177Z Server: Retrying               action=server-start attempt=2 duration=11.16118299 phase=attempt-complete username=hubtraf-101
+2020-05-19T23:33:38.161693Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-31
+2020-05-19T23:33:38.261279Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-156
+2020-05-19T23:33:38.282752Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-72
+2020-05-19T23:33:38.287192Z Server: Retrying               action=server-start attempt=3 duration=20.418964974999998 phase=attempt-complete username=hubtraf-31
+2020-05-19T23:33:38.411653Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-41
+2020-05-19T23:33:38.415857Z Server: Retrying               action=server-start attempt=2 duration=11.529784688999996 phase=attempt-complete username=hubtraf-72
+2020-05-19T23:33:38.535996Z Server: Retrying               action=server-start attempt=3 duration=26.676593569999998 phase=attempt-complete username=hubtraf-41
+2020-05-19T23:33:38.625766Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-25
+2020-05-19T23:33:38.708800Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-42
+2020-05-19T23:33:38.727113Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=33.831041147 phase=complete username=hubtraf-156
+2020-05-19T23:33:38.727572Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-156
+2020-05-19T23:33:38.788308Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-112
+2020-05-19T23:33:38.809544Z Kernel: Started                action=kernel-start duration=0.08174886900000189 phase=complete username=hubtraf-156
+2020-05-19T23:33:38.809757Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-156
+2020-05-19T23:33:38.835758Z Login: Complete                action=login duration=0.2423356400000003 phase=complete username=hubtraf-185
+2020-05-19T23:33:38.836107Z Server: Starting               action=server-start phase=start username=hubtraf-185
+2020-05-19T23:33:38.836314Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-185
+2020-05-19T23:33:38.861351Z Server: Retrying               action=server-start attempt=3 duration=19.002179810999998 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:33:38.865636Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-165
+2020-05-19T23:33:38.865758Z Code Execute: Started          action=code-execute phase=start username=hubtraf-165
+2020-05-19T23:33:38.957196Z Execute Success                output=done response=done username=hubtraf-165
+2020-05-19T23:33:39.123138Z Server: Retrying               action=server-start attempt=5 duration=40.256960402000004 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:33:39.436920Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-8
+2020-05-19T23:33:39.495158Z Server: Retrying               action=server-start attempt=1 duration=0.6590660680000013 phase=attempt-complete username=hubtraf-185
+2020-05-19T23:33:39.499105Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=30.669627822 phase=complete username=hubtraf-25
+2020-05-19T23:33:39.499517Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-25
+2020-05-19T23:33:39.539918Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-96
+2020-05-19T23:33:39.611268Z Kernel: Started                action=kernel-start duration=0.11151065500000357 phase=complete username=hubtraf-25
+2020-05-19T23:33:39.611628Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-25
+2020-05-19T23:33:39.656599Z Server: Retrying               action=server-start attempt=3 duration=23.734804766999996 phase=attempt-complete username=hubtraf-96
+2020-05-19T23:33:39.677025Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-20
+2020-05-19T23:33:39.789924Z Login: Complete                action=login duration=0.19397456800000157 phase=complete username=hubtraf-133
+2020-05-19T23:33:39.790271Z Server: Starting               action=server-start phase=start username=hubtraf-133
+2020-05-19T23:33:39.790634Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-133
+2020-05-19T23:33:39.830397Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-156
+2020-05-19T23:33:39.830638Z Code Execute: Started          action=code-execute phase=start username=hubtraf-156
+2020-05-19T23:33:39.878281Z Server: Retrying               action=server-start attempt=4 duration=26.010135824 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:33:39.924829Z Execute Success                output=done response=done username=hubtraf-156
+2020-05-19T23:33:40.002955Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=28.218359840999998 phase=complete username=hubtraf-8
+2020-05-19T23:33:40.003316Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-8
+2020-05-19T23:33:40.092269Z Server: Retrying               action=server-start attempt=1 duration=0.3019895560000023 phase=attempt-complete username=hubtraf-133
+2020-05-19T23:33:40.093533Z Kernel: Started                action=kernel-start duration=0.09002294700000135 phase=complete username=hubtraf-8
+2020-05-19T23:33:40.093873Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-8
+2020-05-19T23:33:40.312750Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-113
+2020-05-19T23:33:40.673698Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-25
+2020-05-19T23:33:40.673935Z Code Execute: Started          action=code-execute phase=start username=hubtraf-25
+2020-05-19T23:33:40.739138Z Server: Started (JupyterLab)   action=server-start attempt=3 duration=22.799757126999996 phase=complete username=hubtraf-113
+2020-05-19T23:33:40.739441Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-113
+2020-05-19T23:33:40.767516Z Execute Success                output=done response=done username=hubtraf-25
+2020-05-19T23:33:40.810811Z Kernel: Started                action=kernel-start duration=0.07122178799999546 phase=complete username=hubtraf-113
+2020-05-19T23:33:40.811128Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-113
+2020-05-19T23:33:40.959829Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-91
+2020-05-19T23:33:41.066107Z Server: Retrying               action=server-start attempt=6 duration=48.130802866 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:33:41.118185Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-8
+2020-05-19T23:33:41.118423Z Code Execute: Started          action=code-execute phase=start username=hubtraf-8
+2020-05-19T23:33:41.205836Z Execute Success                output=done response=done username=hubtraf-8
+2020-05-19T23:33:41.473552Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-173
+2020-05-19T23:33:41.602648Z Server: Retrying               action=server-start attempt=3 duration=18.737083927 phase=attempt-complete username=hubtraf-173
+2020-05-19T23:33:41.819496Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-61
+2020-05-19T23:33:41.858309Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-113
+2020-05-19T23:33:41.858731Z Code Execute: Started          action=code-execute phase=start username=hubtraf-113
+2020-05-19T23:33:41.886414Z Login: Complete                action=login duration=0.2889360359999955 phase=complete username=hubtraf-161
+2020-05-19T23:33:41.886911Z Server: Starting               action=server-start phase=start username=hubtraf-161
+2020-05-19T23:33:41.887137Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-161
+2020-05-19T23:33:41.942439Z Execute Success                output=done response=done username=hubtraf-113
+2020-05-19T23:33:42.041806Z Server: Retrying               action=server-start attempt=5 duration=42.20449371 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:33:42.084668Z Server: Retrying               action=server-start attempt=1 duration=0.19776481399999568 phase=attempt-complete username=hubtraf-161
+2020-05-19T23:33:42.300830Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-43
+2020-05-19T23:33:42.698277Z Server: Started (JupyterLab)   action=server-start attempt=4 duration=32.919898589 phase=complete username=hubtraf-43
+2020-05-19T23:33:42.698635Z Kernel: Starting               action=kernel-start phase=start username=hubtraf-43
+2020-05-19T23:33:42.787327Z Kernel: Started                action=kernel-start duration=0.08843659800000125 phase=complete username=hubtraf-43
+2020-05-19T23:33:42.787702Z WS: Connecting                 action=kernel-connect phase=start username=hubtraf-43
+2020-05-19T23:33:43.003239Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-19
+2020-05-19T23:33:43.084981Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-62
+2020-05-19T23:33:43.113774Z Server: Retrying               action=server-start attempt=6 duration=51.299557201 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:33:43.194060Z Server: Retrying               action=server-start attempt=3 duration=23.401326097000002 phase=attempt-complete username=hubtraf-62
+2020-05-19T23:33:43.375261Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-130
+2020-05-19T23:33:43.480312Z Server: Retrying               action=server-start attempt=3 duration=21.658913346999995 phase=attempt-complete username=hubtraf-130
+2020-05-19T23:33:43.797620Z Login: Complete                action=login duration=0.20128516900000193 phase=complete username=hubtraf-27
+2020-05-19T23:33:43.798054Z Server: Starting               action=server-start phase=start username=hubtraf-27
+2020-05-19T23:33:43.798349Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-27
+2020-05-19T23:33:43.856567Z WS: Connected                  action=kernel-connect phase=complete username=hubtraf-43
+2020-05-19T23:33:43.856828Z Code Execute: Started          action=code-execute phase=start username=hubtraf-43
+2020-05-19T23:33:43.865659Z Login: Complete                action=login duration=0.2674096580000054 phase=complete username=hubtraf-132
+2020-05-19T23:33:43.865947Z Server: Starting               action=server-start phase=start username=hubtraf-132
+2020-05-19T23:33:43.866087Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-132
+2020-05-19T23:33:43.929970Z Login: Complete                action=login duration=0.33257941999999474 phase=complete username=hubtraf-121
+2020-05-19T23:33:43.930340Z Server: Starting               action=server-start phase=start username=hubtraf-121
+2020-05-19T23:33:43.930521Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-121
+2020-05-19T23:33:43.950639Z Execute Success                output=done response=done username=hubtraf-43
+2020-05-19T23:33:43.978183Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-97
+2020-05-19T23:33:44.330301Z Server: Retrying               action=server-start attempt=1 duration=0.532261217999995 phase=attempt-complete username=hubtraf-27
+2020-05-19T23:33:44.350144Z Server: Retrying               action=server-start attempt=1 duration=0.48420618900000534 phase=attempt-complete username=hubtraf-132
+2020-05-19T23:33:44.373147Z Server: Retrying               action=server-start attempt=2 duration=8.511719221 phase=attempt-complete username=hubtraf-97
+2020-05-19T23:33:44.391952Z Server: Retrying               action=server-start attempt=1 duration=0.4616252709999955 phase=attempt-complete username=hubtraf-121
+2020-05-19T23:33:44.535167Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-38
+2020-05-19T23:33:44.661871Z Server: Retrying               action=server-start attempt=4 duration=28.880833701 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:33:45.122241Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-33
+2020-05-19T23:33:45.240871Z Server: Retrying               action=server-start attempt=6 duration=53.387516627 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:33:45.301374Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-127
+2020-05-19T23:33:45.433299Z Server: Retrying               action=server-start attempt=2 duration=10.589231374 phase=attempt-complete username=hubtraf-127
+2020-05-19T23:33:45.502974Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-109
+2020-05-19T23:33:45.657209Z Server: Retrying               action=server-start attempt=6 duration=51.782283014 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:33:46.097330Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-128
+2020-05-19T23:33:46.106908Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-66
+2020-05-19T23:33:46.143423Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-106
+2020-05-19T23:33:46.255518Z Server: Retrying               action=server-start attempt=3 duration=20.307809019000004 phase=attempt-complete username=hubtraf-66
+2020-05-19T23:33:46.278150Z Server: Retrying               action=server-start attempt=4 duration=31.384384064 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:33:46.296994Z Server: Retrying               action=server-start attempt=2 duration=10.517012813000001 phase=attempt-complete username=hubtraf-106
+2020-05-19T23:33:46.399762Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-101
+2020-05-19T23:33:46.521088Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-41
+2020-05-19T23:33:46.526191Z Server: Retrying               action=server-start attempt=3 duration=19.575452051000006 phase=attempt-complete username=hubtraf-101
+2020-05-19T23:33:46.635887Z Server: Retrying               action=server-start attempt=4 duration=34.77672151 phase=attempt-complete username=hubtraf-41
+2020-05-19T23:33:46.666044Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-160
+2020-05-19T23:33:46.793907Z Login: Complete                action=login duration=0.1994477599999982 phase=complete username=hubtraf-159
+2020-05-19T23:33:46.794245Z Server: Starting               action=server-start phase=start username=hubtraf-159
+2020-05-19T23:33:46.794462Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-159
+2020-05-19T23:33:46.818920Z Server: Retrying               action=server-start attempt=6 duration=54.784738975 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:33:46.883678Z Login: Complete                action=login duration=0.29025111100000345 phase=complete username=hubtraf-5
+2020-05-19T23:33:46.883886Z Server: Starting               action=server-start phase=start username=hubtraf-5
+2020-05-19T23:33:46.883995Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-5
+2020-05-19T23:33:47.137259Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-42
+2020-05-19T23:33:47.141994Z Server: Retrying               action=server-start attempt=1 duration=0.3477572409999965 phase=attempt-complete username=hubtraf-159
+2020-05-19T23:33:47.193607Z Server: Retrying               action=server-start attempt=1 duration=0.30973387499999916 phase=attempt-complete username=hubtraf-5
+2020-05-19T23:33:47.295960Z Server: Retrying               action=server-start attempt=4 duration=27.437042008999995 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:33:47.653899Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-119
+2020-05-19T23:33:47.761512Z Server: Retrying               action=server-start attempt=2 duration=13.883172907000002 phase=attempt-complete username=hubtraf-119
+2020-05-19T23:33:47.852139Z Login: Complete                action=login duration=0.2568407569999991 phase=complete username=hubtraf-67
+2020-05-19T23:33:47.852480Z Server: Starting               action=server-start phase=start username=hubtraf-67
+2020-05-19T23:33:47.852659Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-67
+2020-05-19T23:33:48.032664Z Server: Retrying               action=server-start attempt=1 duration=0.1801851929999998 phase=attempt-complete username=hubtraf-67
+2020-05-19T23:33:48.246408Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-133
+2020-05-19T23:33:48.278466Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-72
+2020-05-19T23:33:48.342684Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-31
+2020-05-19T23:33:48.362030Z Server: Retrying               action=server-start attempt=2 duration=8.572017994 phase=attempt-complete username=hubtraf-133
+2020-05-19T23:33:48.395645Z Server: Retrying               action=server-start attempt=3 duration=21.509868874999995 phase=attempt-complete username=hubtraf-72
+2020-05-19T23:33:48.449620Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-16
+2020-05-19T23:33:48.473090Z Server: Retrying               action=server-start attempt=4 duration=30.605165840999998 phase=attempt-complete username=hubtraf-31
+2020-05-19T23:33:48.564781Z Server: Retrying               action=server-start attempt=5 duration=36.465424920000004 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:33:48.869133Z Login: Complete                action=login duration=0.27595638500000064 phase=complete username=hubtraf-123
+2020-05-19T23:33:48.869505Z Server: Starting               action=server-start phase=start username=hubtraf-123
+2020-05-19T23:33:48.869824Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-123
+2020-05-19T23:33:48.970015Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-15
+2020-05-19T23:33:49.055189Z Server: Retrying               action=server-start attempt=1 duration=0.18568809399999964 phase=attempt-complete username=hubtraf-123
+2020-05-19T23:33:49.150188Z Server: Retrying               action=server-start attempt=2 duration=11.34765959 phase=attempt-complete username=hubtraf-15
+2020-05-19T23:33:49.263039Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-61
+2020-05-19T23:33:49.365596Z Server: Retrying               action=server-start attempt=6 duration=49.528504100999996 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:33:50.066906Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-20
+2020-05-19T23:33:50.119598Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-62
+2020-05-19T23:33:50.169705Z Server: Retrying               action=server-start attempt=5 duration=36.30186720900001 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:33:50.242315Z Server: Retrying               action=server-start attempt=4 duration=30.449800125000003 phase=attempt-complete username=hubtraf-62
+2020-05-19T23:33:50.299529Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-112
+2020-05-19T23:33:50.365938Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-185
+2020-05-19T23:33:50.441729Z Server: Retrying               action=server-start attempt=6 duration=51.57589935499999 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:33:50.464347Z Server: Retrying               action=server-start attempt=2 duration=11.628591642000004 phase=attempt-complete username=hubtraf-185
+2020-05-19T23:33:50.531386Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-96
+2020-05-19T23:33:50.646651Z Server: Retrying               action=server-start attempt=4 duration=34.725196282 phase=attempt-complete username=hubtraf-96
+2020-05-19T23:33:51.790465Z Login: Complete                action=login duration=0.1959997409999943 phase=complete username=hubtraf-193
+2020-05-19T23:33:51.790807Z Server: Starting               action=server-start phase=start username=hubtraf-193
+2020-05-19T23:33:51.790996Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-193
+2020-05-19T23:33:51.913207Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-91
+2020-05-19T23:33:51.995456Z Server: Retrying               action=server-start attempt=1 duration=0.20464887599999315 phase=attempt-complete username=hubtraf-193
+2020-05-19T23:33:52.024136Z Server: Retrying               action=server-start attempt=7 duration=59.08916682700001 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:33:52.483425Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-19
+2020-05-19T23:33:52.578926Z Server: Retrying               action=server-start attempt=7 duration=60.764996387000004 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:33:52.777554Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-132
+2020-05-19T23:33:52.800841Z Login: Complete                action=login duration=0.2080476449999935 phase=complete username=hubtraf-32
+2020-05-19T23:33:52.801060Z Server: Starting               action=server-start phase=start username=hubtraf-32
+2020-05-19T23:33:52.801162Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-32
+2020-05-19T23:33:52.927842Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-173
+2020-05-19T23:33:52.984151Z Server: Retrying               action=server-start attempt=2 duration=9.118480349999999 phase=attempt-complete username=hubtraf-132
+2020-05-19T23:33:53.014486Z Server: Retrying               action=server-start attempt=1 duration=0.2134289239999987 phase=attempt-complete username=hubtraf-32
+2020-05-19T23:33:53.074516Z Server: Retrying               action=server-start attempt=4 duration=30.209297689000003 phase=attempt-complete username=hubtraf-173
+2020-05-19T23:33:53.532815Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-121
+2020-05-19T23:33:53.546851Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-106
+2020-05-19T23:33:53.646455Z Server: Retrying               action=server-start attempt=2 duration=9.716404392000001 phase=attempt-complete username=hubtraf-121
+2020-05-19T23:33:53.668404Z Server: Retrying               action=server-start attempt=3 duration=17.888643584 phase=attempt-complete username=hubtraf-106
+2020-05-19T23:33:53.700943Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-161
+2020-05-19T23:33:53.749531Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-27
+2020-05-19T23:33:53.783782Z Login: Complete                action=login duration=0.18939326599999617 phase=complete username=hubtraf-116
+2020-05-19T23:33:53.784163Z Server: Starting               action=server-start phase=start username=hubtraf-116
+2020-05-19T23:33:53.784393Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-116
+2020-05-19T23:33:53.969508Z Server: Retrying               action=server-start attempt=2 duration=12.082972211000005 phase=attempt-complete username=hubtraf-161
+2020-05-19T23:33:53.995373Z Server: Retrying               action=server-start attempt=2 duration=10.197615651 phase=attempt-complete username=hubtraf-27
+2020-05-19T23:33:54.015437Z Server: Retrying               action=server-start attempt=1 duration=0.23127893500000596 phase=attempt-complete username=hubtraf-116
+2020-05-19T23:33:54.039618Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-128
+2020-05-19T23:33:54.207920Z Server: Retrying               action=server-start attempt=5 duration=39.31439123 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:33:54.261358Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-67
+2020-05-19T23:33:54.368655Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-119
+2020-05-19T23:33:54.372139Z Server: Retrying               action=server-start attempt=2 duration=6.519851864000003 phase=attempt-complete username=hubtraf-67
+2020-05-19T23:33:54.473983Z Server: Retrying               action=server-start attempt=3 duration=20.595851675 phase=attempt-complete username=hubtraf-119
+2020-05-19T23:33:54.773376Z Login: Complete                action=login duration=0.1805395840000017 phase=complete username=hubtraf-11
+2020-05-19T23:33:54.773715Z Server: Starting               action=server-start phase=start username=hubtraf-11
+2020-05-19T23:33:54.773984Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-11
+2020-05-19T23:33:54.830120Z Login: Complete                action=login duration=0.23663926000000401 phase=complete username=hubtraf-122
+2020-05-19T23:33:54.830388Z Server: Starting               action=server-start phase=start username=hubtraf-122
+2020-05-19T23:33:54.830577Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-122
+2020-05-19T23:33:54.841659Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-130
+2020-05-19T23:33:54.990036Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-101
+2020-05-19T23:33:55.107216Z Server: Retrying               action=server-start attempt=1 duration=0.3335057169999942 phase=attempt-complete username=hubtraf-11
+2020-05-19T23:33:55.132457Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-42
+2020-05-19T23:33:55.145937Z Server: Retrying               action=server-start attempt=4 duration=33.32489449199999 phase=attempt-complete username=hubtraf-130
+2020-05-19T23:33:55.166101Z Server: Retrying               action=server-start attempt=1 duration=0.33572052499999927 phase=attempt-complete username=hubtraf-122
+2020-05-19T23:33:55.187225Z Server: Retrying               action=server-start attempt=4 duration=28.236753479000008 phase=attempt-complete username=hubtraf-101
+2020-05-19T23:33:55.263826Z Server: Retrying               action=server-start attempt=5 duration=35.40515168899999 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:33:55.356541Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-33
+2020-05-19T23:33:55.466043Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-185
+2020-05-19T23:33:55.475959Z Server: Retrying               action=server-start attempt=7 duration=63.622932846999994 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:33:55.571332Z Server: Retrying               action=server-start attempt=3 duration=16.735731905999998 phase=attempt-complete username=hubtraf-185
+2020-05-19T23:33:56.869027Z Login: Complete                action=login duration=0.27646576300000447 phase=complete username=hubtraf-79
+2020-05-19T23:33:56.869369Z Server: Starting               action=server-start phase=start username=hubtraf-79
+2020-05-19T23:33:56.869548Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-79
+2020-05-19T23:33:56.900967Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-109
+2020-05-19T23:33:57.053947Z Server: Retrying               action=server-start attempt=1 duration=0.1845813110000023 phase=attempt-complete username=hubtraf-79
+2020-05-19T23:33:57.064419Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-97
+2020-05-19T23:33:57.066270Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-160
+2020-05-19T23:33:57.090087Z Server: Retrying               action=server-start attempt=7 duration=63.215515146 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:33:57.165755Z Server: Retrying               action=server-start attempt=3 duration=21.30471694700001 phase=attempt-complete username=hubtraf-97
+2020-05-19T23:33:57.170626Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-15
+2020-05-19T23:33:57.188901Z Server: Retrying               action=server-start attempt=7 duration=65.15503662900001 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:33:57.214920Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-127
+2020-05-19T23:33:57.286495Z Server: Retrying               action=server-start attempt=3 duration=19.484215770999995 phase=attempt-complete username=hubtraf-15
+2020-05-19T23:33:57.314748Z Server: Retrying               action=server-start attempt=3 duration=22.471045929000006 phase=attempt-complete username=hubtraf-127
+2020-05-19T23:33:57.359990Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-41
+2020-05-19T23:33:57.492441Z Server: Retrying               action=server-start attempt=5 duration=45.633619463 phase=attempt-complete username=hubtraf-41
+2020-05-19T23:33:58.136683Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-31
+2020-05-19T23:33:58.238427Z Server: Retrying               action=server-start attempt=5 duration=40.370801262 phase=attempt-complete username=hubtraf-31
+2020-05-19T23:33:58.311278Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-38
+2020-05-19T23:33:58.423300Z Server: Retrying               action=server-start attempt=5 duration=42.642678585 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:33:58.499484Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-72
+2020-05-19T23:33:58.593166Z Server: Retrying               action=server-start attempt=4 duration=31.707709807 phase=attempt-complete username=hubtraf-72
+2020-05-19T23:33:58.766197Z Login: Complete                action=login duration=0.17462436099999934 phase=complete username=hubtraf-29
+2020-05-19T23:33:58.766424Z Server: Starting               action=server-start phase=start username=hubtraf-29
+2020-05-19T23:33:58.766528Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-29
+2020-05-19T23:33:58.810687Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-123
+2020-05-19T23:33:58.950774Z Server: Retrying               action=server-start attempt=1 duration=0.1843589510000072 phase=attempt-complete username=hubtraf-29
+2020-05-19T23:33:58.962365Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-66
+2020-05-19T23:33:58.997187Z Server: Retrying               action=server-start attempt=2 duration=10.127981310000003 phase=attempt-complete username=hubtraf-123
+2020-05-19T23:33:59.081480Z Server: Retrying               action=server-start attempt=4 duration=33.134160082 phase=attempt-complete username=hubtraf-66
+2020-05-19T23:33:59.538425Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-5
+2020-05-19T23:33:59.650993Z Server: Retrying               action=server-start attempt=2 duration=12.767497940999995 phase=attempt-complete username=hubtraf-5
+2020-05-19T23:33:59.766794Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-20
+2020-05-19T23:33:59.927558Z Server: Retrying               action=server-start attempt=6 duration=46.06003028900001 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:34:00.051163Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-121
+2020-05-19T23:34:00.131373Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-19
+2020-05-19T23:34:00.166211Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-16
+2020-05-19T23:34:00.244668Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-61
+2020-05-19T23:34:00.290288Z Server: Retrying               action=server-start attempt=3 duration=16.360437688999994 phase=attempt-complete username=hubtraf-121
+2020-05-19T23:34:00.315717Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-96
+2020-05-19T23:34:00.327440Z Server: Retrying               action=server-start attempt=8 duration=68.51374473 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:34:00.349257Z Server: Retrying               action=server-start attempt=6 duration=48.250249221999994 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:34:00.371523Z Server: Retrying               action=server-start attempt=7 duration=60.53476928599999 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:34:00.443295Z Server: Retrying               action=server-start attempt=5 duration=44.52214196899999 phase=attempt-complete username=hubtraf-96
+2020-05-19T23:34:00.582558Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-132
+2020-05-19T23:34:00.693175Z Server: Retrying               action=server-start attempt=3 duration=16.827734594000006 phase=attempt-complete username=hubtraf-132
+2020-05-19T23:34:00.719688Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-161
+2020-05-19T23:34:00.824664Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-112
+2020-05-19T23:34:00.880192Z Server: Retrying               action=server-start attempt=3 duration=18.993870924 phase=attempt-complete username=hubtraf-161
+2020-05-19T23:34:00.965791Z Server: Retrying               action=server-start attempt=7 duration=62.100280396 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:34:01.213217Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-133
+2020-05-19T23:34:01.317890Z Server: Retrying               action=server-start attempt=3 duration=21.528270833000008 phase=attempt-complete username=hubtraf-133
+2020-05-19T23:34:01.365897Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-62
+2020-05-19T23:34:01.461425Z Server: Retrying               action=server-start attempt=5 duration=41.669249490000006 phase=attempt-complete username=hubtraf-62
+2020-05-19T23:34:01.795325Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-32
+2020-05-19T23:34:01.871928Z Login: Complete                action=login duration=0.2740759679999911 phase=complete username=hubtraf-182
+2020-05-19T23:34:01.872267Z Server: Starting               action=server-start phase=start username=hubtraf-182
+2020-05-19T23:34:01.872454Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-182
+2020-05-19T23:34:01.938065Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-128
+2020-05-19T23:34:01.955707Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-159
+2020-05-19T23:34:02.049599Z Server: Retrying               action=server-start attempt=2 duration=9.248823789 phase=attempt-complete username=hubtraf-32
+2020-05-19T23:34:02.118287Z Server: Retrying               action=server-start attempt=1 duration=0.24602549499999782 phase=attempt-complete username=hubtraf-182
+2020-05-19T23:34:02.145712Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-119
+2020-05-19T23:34:02.148896Z Server: Retrying               action=server-start attempt=6 duration=47.255606598 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:34:02.171217Z Server: Retrying               action=server-start attempt=2 duration=15.377438597000001 phase=attempt-complete username=hubtraf-159
+2020-05-19T23:34:02.204488Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-42
+2020-05-19T23:34:02.252057Z Server: Retrying               action=server-start attempt=4 duration=28.374167991 phase=attempt-complete username=hubtraf-119
+2020-05-19T23:34:02.335941Z Server: Retrying               action=server-start attempt=6 duration=42.47746611699999 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:34:02.756970Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-122
+2020-05-19T23:34:02.763422Z Login: Complete                action=login duration=0.1630066190000008 phase=complete username=hubtraf-76
+2020-05-19T23:34:02.763772Z Server: Starting               action=server-start phase=start username=hubtraf-76
+2020-05-19T23:34:02.763953Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-76
+2020-05-19T23:34:02.832770Z Login: Complete                action=login duration=0.23673070699999244 phase=complete username=hubtraf-34
+2020-05-19T23:34:02.833126Z Server: Starting               action=server-start phase=start username=hubtraf-34
+2020-05-19T23:34:02.833307Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-34
+2020-05-19T23:34:02.896526Z Login: Complete                action=login duration=0.2994439959999937 phase=complete username=hubtraf-65
+2020-05-19T23:34:02.896802Z Server: Starting               action=server-start phase=start username=hubtraf-65
+2020-05-19T23:34:02.896941Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-65
+2020-05-19T23:34:03.023333Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-101
+2020-05-19T23:34:03.245188Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-116
+2020-05-19T23:34:03.267717Z Server: Retrying               action=server-start attempt=2 duration=8.437582653000007 phase=attempt-complete username=hubtraf-122
+2020-05-19T23:34:03.313934Z Server: Retrying               action=server-start attempt=1 duration=0.5501695949999998 phase=attempt-complete username=hubtraf-76
+2020-05-19T23:34:03.328865Z Server: Retrying               action=server-start attempt=1 duration=0.495752379999999 phase=attempt-complete username=hubtraf-34
+2020-05-19T23:34:03.349178Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-106
+2020-05-19T23:34:03.376127Z Server: Retrying               action=server-start attempt=5 duration=36.425899073000004 phase=attempt-complete username=hubtraf-101
+2020-05-19T23:34:03.399046Z Server: Retrying               action=server-start attempt=1 duration=0.5022530119999971 phase=attempt-complete username=hubtraf-65
+2020-05-19T23:34:03.442077Z Server: Retrying               action=server-start attempt=2 duration=9.658205132000006 phase=attempt-complete username=hubtraf-116
+2020-05-19T23:34:03.472310Z Server: Retrying               action=server-start attempt=4 duration=27.692852418999998 phase=attempt-complete username=hubtraf-106
+2020-05-19T23:34:03.498645Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-67
+2020-05-19T23:34:03.608824Z Server: Retrying               action=server-start attempt=3 duration=15.756819828999994 phase=attempt-complete username=hubtraf-67
+2020-05-19T23:34:03.657355Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-193
+2020-05-19T23:34:03.780854Z Server: Retrying               action=server-start attempt=2 duration=11.990406495000002 phase=attempt-complete username=hubtraf-193
+2020-05-19T23:34:04.504941Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-38
+2020-05-19T23:34:04.604189Z Server: Retrying               action=server-start attempt=6 duration=48.823756043 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:34:04.682329Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-130
+2020-05-19T23:34:04.868109Z Login: Complete                action=login duration=0.2753926179999979 phase=complete username=hubtraf-184
+2020-05-19T23:34:04.868458Z Server: Starting               action=server-start phase=start username=hubtraf-184
+2020-05-19T23:34:04.868638Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-184
+2020-05-19T23:34:04.894642Z Server: Retrying               action=server-start attempt=5 duration=43.073901403 phase=attempt-complete username=hubtraf-130
+2020-05-19T23:34:05.028489Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-91
+2020-05-19T23:34:05.062011Z Server: Retrying               action=server-start attempt=1 duration=0.19355024399999365 phase=attempt-complete username=hubtraf-184
+2020-05-19T23:34:05.131506Z Server: Retrying               action=server-start attempt=8 duration=72.196941656 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:34:05.443701Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-173
+2020-05-19T23:34:05.612868Z Server: Retrying               action=server-start attempt=5 duration=42.748033414 phase=attempt-complete username=hubtraf-173
+2020-05-19T23:34:05.919455Z Login: Complete                action=login duration=0.32611338899999964 phase=complete username=hubtraf-199
+2020-05-19T23:34:05.919802Z Server: Starting               action=server-start phase=start username=hubtraf-199
+2020-05-19T23:34:05.919955Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-199
+2020-05-19T23:34:06.014901Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-109
+2020-05-19T23:34:06.194237Z Server: Retrying               action=server-start attempt=1 duration=0.2744342019999948 phase=attempt-complete username=hubtraf-199
+2020-05-19T23:34:06.234072Z Server: Retrying               action=server-start attempt=8 duration=72.359780421 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:34:06.431791Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-97
+2020-05-19T23:34:06.546998Z Server: Retrying               action=server-start attempt=4 duration=30.686243490000003 phase=attempt-complete username=hubtraf-97
+2020-05-19T23:34:06.657170Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-185
+2020-05-19T23:34:06.669697Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-79
+2020-05-19T23:34:06.788373Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-31
+2020-05-19T23:34:06.885761Z Login: Complete                action=login duration=0.289311572999992 phase=complete username=hubtraf-24
+2020-05-19T23:34:06.886111Z Server: Starting               action=server-start phase=start username=hubtraf-24
+2020-05-19T23:34:06.886292Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-24
+2020-05-19T23:34:06.913055Z Server: Retrying               action=server-start attempt=4 duration=28.07779173 phase=attempt-complete username=hubtraf-185
+2020-05-19T23:34:06.931885Z Server: Retrying               action=server-start attempt=2 duration=10.062819754000003 phase=attempt-complete username=hubtraf-79
+2020-05-19T23:34:07.087329Z Server: Retrying               action=server-start attempt=6 duration=49.21997445000001 phase=attempt-complete username=hubtraf-31
+2020-05-19T23:34:07.144892Z Server: Retrying               action=server-start attempt=1 duration=0.25878681799999015 phase=attempt-complete username=hubtraf-24
+2020-05-19T23:34:07.224345Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-33
+2020-05-19T23:34:07.299152Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-123
+2020-05-19T23:34:07.324570Z Server: Retrying               action=server-start attempt=8 duration=75.471895726 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:34:07.415917Z Server: Retrying               action=server-start attempt=3 duration=18.546977243999997 phase=attempt-complete username=hubtraf-123
+2020-05-19T23:34:07.499440Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-160
+2020-05-19T23:34:07.645121Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-72
+2020-05-19T23:34:07.689960Z Server: Retrying               action=server-start attempt=8 duration=75.656415099 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:34:07.778271Z Login: Complete                action=login duration=0.18406393600000115 phase=complete username=hubtraf-14
+2020-05-19T23:34:07.778701Z Server: Starting               action=server-start phase=start username=hubtraf-14
+2020-05-19T23:34:07.778999Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-14
+2020-05-19T23:34:07.811793Z Server: Retrying               action=server-start attempt=5 duration=40.926603949 phase=attempt-complete username=hubtraf-72
+2020-05-19T23:34:07.953793Z Server: Retrying               action=server-start attempt=1 duration=0.17509610600001224 phase=attempt-complete username=hubtraf-14
+2020-05-19T23:34:07.962547Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-96
+2020-05-19T23:34:08.091907Z Server: Retrying               action=server-start attempt=6 duration=52.17098269899999 phase=attempt-complete username=hubtraf-96
+2020-05-19T23:34:08.312536Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-32
+2020-05-19T23:34:08.422919Z Server: Retrying               action=server-start attempt=3 duration=15.622334948000002 phase=attempt-complete username=hubtraf-32
+2020-05-19T23:34:08.432350Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-11
+2020-05-19T23:34:08.503522Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-132
+2020-05-19T23:34:08.564153Z Server: Retrying               action=server-start attempt=2 duration=13.790853522999996 phase=attempt-complete username=hubtraf-11
+2020-05-19T23:34:08.648570Z Server: Retrying               action=server-start attempt=4 duration=24.783372727 phase=attempt-complete username=hubtraf-132
+2020-05-19T23:34:09.083341Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-121
+2020-05-19T23:34:09.131339Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-27
+2020-05-19T23:34:09.194021Z Server: Retrying               action=server-start attempt=4 duration=25.264448867 phase=attempt-complete username=hubtraf-121
+2020-05-19T23:34:09.223452Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-29
+2020-05-19T23:34:09.351065Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-112
+2020-05-19T23:34:09.353552Z Server: Retrying               action=server-start attempt=2 duration=10.587455704000007 phase=attempt-complete username=hubtraf-29
+2020-05-19T23:34:09.373268Z Server: Retrying               action=server-start attempt=3 duration=25.57599060399999 phase=attempt-complete username=hubtraf-27
+2020-05-19T23:34:09.464606Z Server: Retrying               action=server-start attempt=8 duration=70.599355584 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:34:09.671676Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-15
+2020-05-19T23:34:09.790661Z Server: Retrying               action=server-start attempt=4 duration=31.9887576 phase=attempt-complete username=hubtraf-15
+2020-05-19T23:34:09.801962Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-127
+2020-05-19T23:34:09.920774Z Login: Complete                action=login duration=0.32378512100000023 phase=complete username=hubtraf-118
+2020-05-19T23:34:09.921088Z Server: Starting               action=server-start phase=start username=hubtraf-118
+2020-05-19T23:34:09.921228Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-118
+2020-05-19T23:34:09.980482Z Login: Complete                action=login duration=0.38455517699999575 phase=complete username=hubtraf-4
+2020-05-19T23:34:09.980856Z Server: Starting               action=server-start phase=start username=hubtraf-4
+2020-05-19T23:34:09.981125Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-4
+2020-05-19T23:34:10.045575Z Login: Complete                action=login duration=0.44770141700000465 phase=complete username=hubtraf-171
+2020-05-19T23:34:10.045801Z Server: Starting               action=server-start phase=start username=hubtraf-171
+2020-05-19T23:34:10.045911Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-171
+2020-05-19T23:34:10.071378Z Server: Retrying               action=server-start attempt=4 duration=35.22806383100001 phase=attempt-complete username=hubtraf-127
+2020-05-19T23:34:10.071823Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-5
+2020-05-19T23:34:10.342809Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-67
+2020-05-19T23:34:10.495176Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-20
+2020-05-19T23:34:10.826119Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-66
+2020-05-19T23:34:10.956926Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-61
+2020-05-19T23:34:10.959523Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-38
+2020-05-19T23:34:11.008660Z Server: Retrying               action=server-start attempt=3 duration=24.125510522000006 phase=attempt-complete username=hubtraf-5
+2020-05-19T23:34:11.043746Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-76
+2020-05-19T23:34:11.067885Z Server: Retrying               action=server-start attempt=1 duration=1.1468330979999877 phase=attempt-complete username=hubtraf-118
+2020-05-19T23:34:11.087344Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-41
+2020-05-19T23:34:11.101866Z Server: Retrying               action=server-start attempt=1 duration=1.1210378979999973 phase=attempt-complete username=hubtraf-4
+2020-05-19T23:34:11.136244Z Server: Retrying               action=server-start attempt=4 duration=23.284468691 phase=attempt-complete username=hubtraf-67
+2020-05-19T23:34:11.163815Z Server: Retrying               action=server-start attempt=7 duration=57.296626864000004 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:34:11.202050Z Server: Retrying               action=server-start attempt=1 duration=1.1562878980000022 phase=attempt-complete username=hubtraf-171
+2020-05-19T23:34:11.243877Z Server: Retrying               action=server-start attempt=5 duration=45.296932088 phase=attempt-complete username=hubtraf-66
+2020-05-19T23:34:11.306517Z Server: Retrying               action=server-start attempt=8 duration=71.47010237999999 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:34:11.331063Z Server: Retrying               action=server-start attempt=7 duration=55.550839397000004 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:34:11.347359Z Server: Retrying               action=server-start attempt=2 duration=8.583849969999989 phase=attempt-complete username=hubtraf-76
+2020-05-19T23:34:11.367363Z Server: Retrying               action=server-start attempt=6 duration=59.508967904 phase=attempt-complete username=hubtraf-41
+2020-05-19T23:34:11.388207Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-133
+2020-05-19T23:34:11.414683Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-182
+2020-05-19T23:34:11.510654Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-65
+2020-05-19T23:34:11.514004Z Server: Retrying               action=server-start attempt=4 duration=31.724696973999997 phase=attempt-complete username=hubtraf-133
+2020-05-19T23:34:11.533854Z Server: Retrying               action=server-start attempt=2 duration=9.66187832 phase=attempt-complete username=hubtraf-182
+2020-05-19T23:34:11.549000Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-62
+2020-05-19T23:34:11.634601Z Server: Retrying               action=server-start attempt=2 duration=8.738056538999999 phase=attempt-complete username=hubtraf-65
+2020-05-19T23:34:11.651763Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-19
+2020-05-19T23:34:11.675084Z Server: Retrying               action=server-start attempt=6 duration=51.88319625900001 phase=attempt-complete username=hubtraf-62
+2020-05-19T23:34:11.758336Z Server: Retrying               action=server-start attempt=9 duration=79.944989987 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:34:12.503606Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-16
+2020-05-19T23:34:12.556051Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-193
+2020-05-19T23:34:12.605766Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-34
+2020-05-19T23:34:12.610245Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-161
+2020-05-19T23:34:12.662631Z Server: Retrying               action=server-start attempt=7 duration=60.564013624 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:34:12.718118Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-128
+2020-05-19T23:34:12.736906Z Server: Retrying               action=server-start attempt=3 duration=20.946733805999997 phase=attempt-complete username=hubtraf-193
+2020-05-19T23:34:12.753170Z Server: Retrying               action=server-start attempt=2 duration=9.920346787 phase=attempt-complete username=hubtraf-34
+2020-05-19T23:34:12.823438Z Server: Retrying               action=server-start attempt=4 duration=30.937482647000003 phase=attempt-complete username=hubtraf-161
+2020-05-19T23:34:12.889106Z Login: Complete                action=login duration=0.29730492900000627 phase=complete username=hubtraf-55
+2020-05-19T23:34:12.889447Z Server: Starting               action=server-start phase=start username=hubtraf-55
+2020-05-19T23:34:12.889628Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-55
+2020-05-19T23:34:12.908879Z Server: Retrying               action=server-start attempt=7 duration=58.01592347799999 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:34:13.065717Z Server: Retrying               action=server-start attempt=1 duration=0.17627424499998767 phase=attempt-complete username=hubtraf-55
+2020-05-19T23:34:13.073811Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-159
+2020-05-19T23:34:13.171726Z Server: Retrying               action=server-start attempt=3 duration=26.378285834999993 phase=attempt-complete username=hubtraf-159
+2020-05-19T23:34:13.310312Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-106
+2020-05-19T23:34:13.409772Z Server: Retrying               action=server-start attempt=5 duration=37.630613297000004 phase=attempt-complete username=hubtraf-106
+2020-05-19T23:34:14.045066Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-42
+2020-05-19T23:34:14.098168Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-119
+2020-05-19T23:34:14.142922Z Server: Retrying               action=server-start attempt=7 duration=54.284824548 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:34:14.220226Z Server: Retrying               action=server-start attempt=5 duration=40.342697595 phase=attempt-complete username=hubtraf-119
+2020-05-19T23:34:14.401217Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-160
+2020-05-19T23:34:14.556798Z Server: Retrying               action=server-start attempt=9 duration=82.523465165 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:34:14.865589Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-79
+2020-05-19T23:34:14.883608Z Login: Complete                action=login duration=0.2862012020000009 phase=complete username=hubtraf-168
+2020-05-19T23:34:14.883917Z Server: Starting               action=server-start phase=start username=hubtraf-168
+2020-05-19T23:34:14.884055Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-168
+2020-05-19T23:34:14.982178Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-116
+2020-05-19T23:34:15.016115Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-199
+2020-05-19T23:34:15.068047Z Server: Retrying               action=server-start attempt=3 duration=18.199234043999994 phase=attempt-complete username=hubtraf-79
+2020-05-19T23:34:15.136506Z Server: Retrying               action=server-start attempt=1 duration=0.2525945489999941 phase=attempt-complete username=hubtraf-168
+2020-05-19T23:34:15.167507Z Server: Retrying               action=server-start attempt=3 duration=21.383998651 phase=attempt-complete username=hubtraf-116
+2020-05-19T23:34:15.190535Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-31
+2020-05-19T23:34:15.207627Z Server: Retrying               action=server-start attempt=2 duration=9.288104638999997 phase=attempt-complete username=hubtraf-199
+2020-05-19T23:34:15.319445Z Server: Retrying               action=server-start attempt=7 duration=57.452347348 phase=attempt-complete username=hubtraf-31
+2020-05-19T23:34:15.504579Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-97
+2020-05-19T23:34:15.615548Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-122
+2020-05-19T23:34:15.709873Z Server: Retrying               action=server-start attempt=5 duration=39.849403642000006 phase=attempt-complete username=hubtraf-97
+2020-05-19T23:34:15.732603Z Server: Retrying               action=server-start attempt=3 duration=20.902851233999996 phase=attempt-complete username=hubtraf-122
+2020-05-19T23:34:15.814738Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-72
+2020-05-19T23:34:15.914655Z Server: Retrying               action=server-start attempt=6 duration=49.029723699 phase=attempt-complete username=hubtraf-72
+2020-05-19T23:34:16.437493Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-184
+2020-05-19T23:34:16.528531Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-171
+2020-05-19T23:34:16.531753Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-130
+2020-05-19T23:34:16.563819Z Server: Retrying               action=server-start attempt=2 duration=11.695718280999998 phase=attempt-complete username=hubtraf-184
+2020-05-19T23:34:16.642968Z Server: Retrying               action=server-start attempt=2 duration=6.597349087000012 phase=attempt-complete username=hubtraf-171
+2020-05-19T23:34:16.670040Z Server: Retrying               action=server-start attempt=6 duration=54.849659407 phase=attempt-complete username=hubtraf-130
+2020-05-19T23:34:16.840098Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-101
+2020-05-19T23:34:16.857358Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-123
+2020-05-19T23:34:16.927723Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-173
+2020-05-19T23:34:16.954063Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-33
+2020-05-19T23:34:16.958845Z Server: Retrying               action=server-start attempt=6 duration=50.00904318600001 phase=attempt-complete username=hubtraf-101
+2020-05-19T23:34:16.985370Z Server: Retrying               action=server-start attempt=4 duration=28.116721375000004 phase=attempt-complete username=hubtraf-123
+2020-05-19T23:34:17.074361Z Server: Retrying               action=server-start attempt=6 duration=54.209881155 phase=attempt-complete username=hubtraf-173
+2020-05-19T23:34:17.091324Z Server: Retrying               action=server-start attempt=9 duration=85.23895777700001 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:34:17.115701Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-38
+2020-05-19T23:34:17.166986Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-121
+2020-05-19T23:34:17.238252Z Server: Retrying               action=server-start attempt=8 duration=61.458209185 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:34:17.284527Z Server: Retrying               action=server-start attempt=5 duration=33.355204545999996 phase=attempt-complete username=hubtraf-121
+2020-05-19T23:34:17.344151Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-91
+2020-05-19T23:34:17.461151Z Server: Retrying               action=server-start attempt=9 duration=84.526962448 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:34:17.525605Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-32
+2020-05-19T23:34:17.640871Z Server: Retrying               action=server-start attempt=4 duration=24.840567500000006 phase=attempt-complete username=hubtraf-32
+2020-05-19T23:34:17.699238Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-185
+2020-05-19T23:34:17.873477Z Server: Retrying               action=server-start attempt=5 duration=39.038557865 phase=attempt-complete username=hubtraf-185
+2020-05-19T23:34:17.919198Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-109
+2020-05-19T23:34:17.920686Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-24
+2020-05-19T23:34:18.025120Z Server: Retrying               action=server-start attempt=9 duration=84.151183179 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:34:18.070032Z Server: Retrying               action=server-start attempt=2 duration=11.184257091999996 phase=attempt-complete username=hubtraf-24
+2020-05-19T23:34:18.414454Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-62
+2020-05-19T23:34:18.529043Z Server: Retrying               action=server-start attempt=7 duration=58.73738867400001 phase=attempt-complete username=hubtraf-62
+2020-05-19T23:34:19.004138Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-16
+2020-05-19T23:34:19.086589Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-14
+2020-05-19T23:34:19.126331Z Server: Retrying               action=server-start attempt=8 duration=67.02790827199999 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:34:19.198731Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-112
+2020-05-19T23:34:19.202280Z Server: Retrying               action=server-start attempt=2 duration=11.423932066000006 phase=attempt-complete username=hubtraf-14
+2020-05-19T23:34:19.307079Z Server: Retrying               action=server-start attempt=9 duration=80.442129887 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:34:19.825506Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-118
+2020-05-19T23:34:19.831303Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-133
+2020-05-19T23:34:19.852920Z Login: Complete                action=login duration=0.2615551399999987 phase=complete username=hubtraf-10
+2020-05-19T23:34:19.853282Z Server: Starting               action=server-start phase=start username=hubtraf-10
+2020-05-19T23:34:19.853459Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-10
+2020-05-19T23:34:20.030749Z Server: Retrying               action=server-start attempt=2 duration=10.109971212999994 phase=attempt-complete username=hubtraf-118
+2020-05-19T23:34:20.068283Z Server: Retrying               action=server-start attempt=5 duration=40.27921546900001 phase=attempt-complete username=hubtraf-133
+2020-05-19T23:34:20.085159Z Server: Retrying               action=server-start attempt=1 duration=0.23188019500000223 phase=attempt-complete username=hubtraf-10
+2020-05-19T23:34:20.203844Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-96
+2020-05-19T23:34:20.337833Z Server: Retrying               action=server-start attempt=7 duration=64.417286242 phase=attempt-complete username=hubtraf-96
+2020-05-19T23:34:20.481905Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-67
+2020-05-19T23:34:20.509766Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-76
+2020-05-19T23:34:20.595294Z Server: Retrying               action=server-start attempt=5 duration=32.743808895 phase=attempt-complete username=hubtraf-67
+2020-05-19T23:34:20.633098Z Server: Retrying               action=server-start attempt=3 duration=17.869863757999994 phase=attempt-complete username=hubtraf-76
+2020-05-19T23:34:20.654647Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-161
+2020-05-19T23:34:20.789754Z Login: Complete                action=login duration=0.19748774199999275 phase=complete username=hubtraf-94
+2020-05-19T23:34:20.790098Z Server: Starting               action=server-start phase=start username=hubtraf-94
+2020-05-19T23:34:20.790295Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-94
+2020-05-19T23:34:20.845973Z Server: Retrying               action=server-start attempt=5 duration=38.960263062 phase=attempt-complete username=hubtraf-161
+2020-05-19T23:34:20.956843Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-65
+2020-05-19T23:34:21.106292Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-4
+2020-05-19T23:34:21.129140Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-182
+2020-05-19T23:34:21.175528Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-61
+2020-05-19T23:34:21.228060Z Server: Attempting to Starting action=server-start attempt=10 phase=attempt-start username=hubtraf-19
+2020-05-19T23:34:21.312993Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-5
+2020-05-19T23:34:21.324711Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-29
+2020-05-19T23:34:21.361664Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-20
+2020-05-19T23:34:21.534058Z Server: Retrying               action=server-start attempt=1 duration=0.7439774659999898 phase=attempt-complete username=hubtraf-94
+2020-05-19T23:34:21.578815Z Server: Retrying               action=server-start attempt=3 duration=18.682577666 phase=attempt-complete username=hubtraf-65
+2020-05-19T23:34:21.596700Z Server: Retrying               action=server-start attempt=2 duration=11.616194996000004 phase=attempt-complete username=hubtraf-4
+2020-05-19T23:34:21.614560Z Server: Retrying               action=server-start attempt=3 duration=19.742881886000006 phase=attempt-complete username=hubtraf-182
+2020-05-19T23:34:21.641791Z Server: Retrying               action=server-start attempt=9 duration=81.805684794 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:34:21.661458Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-15
+2020-05-19T23:34:21.663496Z Server: Retrying               action=server-start attempt=10 duration=89.85045792700001 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:34:21.684928Z Server: Retrying               action=server-start attempt=4 duration=34.802103342 phase=attempt-complete username=hubtraf-5
+2020-05-19T23:34:21.704649Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-11
+2020-05-19T23:34:21.706727Z Server: Retrying               action=server-start attempt=3 duration=22.941008268000004 phase=attempt-complete username=hubtraf-29
+2020-05-19T23:34:21.728026Z Server: Retrying               action=server-start attempt=8 duration=67.861162843 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:34:21.785023Z Server: Attempting to Starting action=server-start attempt=10 phase=attempt-start username=hubtraf-160
+2020-05-19T23:34:21.817551Z Server: Retrying               action=server-start attempt=5 duration=44.016019106 phase=attempt-complete username=hubtraf-15
+2020-05-19T23:34:21.845381Z Server: Retrying               action=server-start attempt=3 duration=27.072491638999992 phase=attempt-complete username=hubtraf-11
+2020-05-19T23:34:21.905840Z Server: Retrying               action=server-start attempt=10 duration=89.87273254600001 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:34:21.987974Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-123
+2020-05-19T23:34:22.064892Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-41
+2020-05-19T23:34:22.113008Z Server: Retrying               action=server-start attempt=5 duration=33.244506789999996 phase=attempt-complete username=hubtraf-123
+2020-05-19T23:34:22.153534Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-128
+2020-05-19T23:34:22.167637Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-132
+2020-05-19T23:34:22.185183Z Server: Retrying               action=server-start attempt=7 duration=70.327117237 phase=attempt-complete username=hubtraf-41
+2020-05-19T23:34:22.316511Z Server: Retrying               action=server-start attempt=5 duration=38.45173610500001 phase=attempt-complete username=hubtraf-132
+2020-05-19T23:34:22.333797Z Server: Retrying               action=server-start attempt=8 duration=67.4411337 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:34:22.356057Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-159
+2020-05-19T23:34:22.449154Z Server: Retrying               action=server-start attempt=4 duration=35.655992557 phase=attempt-complete username=hubtraf-159
+2020-05-19T23:34:22.451620Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-127
+2020-05-19T23:34:22.554320Z Server: Retrying               action=server-start attempt=5 duration=47.71138553400001 phase=attempt-complete username=hubtraf-127
+2020-05-19T23:34:22.568595Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-27
+2020-05-19T23:34:22.671022Z Server: Retrying               action=server-start attempt=4 duration=38.874152220999996 phase=attempt-complete username=hubtraf-27
+2020-05-19T23:34:22.844322Z Login: Complete                action=login duration=0.24931664000000353 phase=complete username=hubtraf-99
+2020-05-19T23:34:22.844665Z Server: Starting               action=server-start phase=start username=hubtraf-99
+2020-05-19T23:34:22.844844Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-99
+2020-05-19T23:34:22.872368Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-116
+2020-05-19T23:34:23.286762Z Server: Retrying               action=server-start attempt=1 duration=0.44210399199999983 phase=attempt-complete username=hubtraf-99
+2020-05-19T23:34:23.298887Z Server: Retrying               action=server-start attempt=4 duration=29.515621639000003 phase=attempt-complete username=hubtraf-116
+2020-05-19T23:34:23.592592Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-101
+2020-05-19T23:34:23.707615Z Server: Retrying               action=server-start attempt=7 duration=56.758010777 phase=attempt-complete username=hubtraf-101
+2020-05-19T23:34:23.774399Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-55
+2020-05-19T23:34:23.785484Z Login: Complete                action=login duration=0.19125513599999522 phase=complete username=hubtraf-110
+2020-05-19T23:34:23.785938Z Server: Starting               action=server-start phase=start username=hubtraf-110
+2020-05-19T23:34:23.786197Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-110
+2020-05-19T23:34:23.787551Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-119
+2020-05-19T23:34:23.998358Z Server: Retrying               action=server-start attempt=2 duration=11.109249514999988 phase=attempt-complete username=hubtraf-55
+2020-05-19T23:34:24.009183Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-193
+2020-05-19T23:34:24.013328Z Server: Retrying               action=server-start attempt=6 duration=50.136105513 phase=attempt-complete username=hubtraf-119
+2020-05-19T23:34:24.097805Z Server: Retrying               action=server-start attempt=1 duration=0.3118801540000078 phase=attempt-complete username=hubtraf-110
+2020-05-19T23:34:24.171273Z Server: Retrying               action=server-start attempt=4 duration=32.381452917999994 phase=attempt-complete username=hubtraf-193
+2020-05-19T23:34:24.442457Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-42
+2020-05-19T23:34:24.498495Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-97
+2020-05-19T23:34:24.518879Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-199
+2020-05-19T23:34:24.576249Z Server: Retrying               action=server-start attempt=8 duration=64.71847456 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:34:24.613836Z Server: Retrying               action=server-start attempt=6 duration=48.753630159000004 phase=attempt-complete username=hubtraf-97
+2020-05-19T23:34:24.616616Z Server: Attempting to Starting action=server-start attempt=10 phase=attempt-start username=hubtraf-112
+2020-05-19T23:34:24.618274Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-34
+2020-05-19T23:34:24.667806Z Server: Retrying               action=server-start attempt=3 duration=18.748566213999993 phase=attempt-complete username=hubtraf-199
+2020-05-19T23:34:24.727835Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-79
+2020-05-19T23:34:24.731880Z Server: Retrying               action=server-start attempt=10 duration=85.867096119 phase=attempt-complete username=hubtraf-112
+2020-05-19T23:34:24.754962Z Server: Retrying               action=server-start attempt=3 duration=21.922503053 phase=attempt-complete username=hubtraf-34
+2020-05-19T23:34:24.816148Z Login: Complete                action=login duration=0.22334601200000748 phase=complete username=hubtraf-179
+2020-05-19T23:34:24.816502Z Server: Starting               action=server-start phase=start username=hubtraf-179
+2020-05-19T23:34:24.816682Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-179
+2020-05-19T23:34:24.878054Z Login: Complete                action=login duration=0.28597043199999916 phase=complete username=hubtraf-51
+2020-05-19T23:34:24.878396Z Server: Starting               action=server-start phase=start username=hubtraf-51
+2020-05-19T23:34:24.878701Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-51
+2020-05-19T23:34:24.941112Z Login: Complete                action=login duration=0.35001354199999923 phase=complete username=hubtraf-23
+2020-05-19T23:34:24.941584Z Server: Starting               action=server-start phase=start username=hubtraf-23
+2020-05-19T23:34:24.941816Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-23
+2020-05-19T23:34:25.031819Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-130
+2020-05-19T23:34:25.233677Z Server: Retrying               action=server-start attempt=4 duration=28.3651682 phase=attempt-complete username=hubtraf-79
+2020-05-19T23:34:25.316162Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-72
+2020-05-19T23:34:25.323211Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-184
+2020-05-19T23:34:25.351989Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-106
+2020-05-19T23:34:25.405242Z Server: Retrying               action=server-start attempt=1 duration=0.588747964999996 phase=attempt-complete username=hubtraf-179
+2020-05-19T23:34:25.423495Z Server: Retrying               action=server-start attempt=1 duration=0.5451090220000054 phase=attempt-complete username=hubtraf-51
+2020-05-19T23:34:25.489750Z Server: Retrying               action=server-start attempt=1 duration=0.5481858069999959 phase=attempt-complete username=hubtraf-23
+2020-05-19T23:34:25.513186Z Server: Retrying               action=server-start attempt=7 duration=63.693068991 phase=attempt-complete username=hubtraf-130
+2020-05-19T23:34:25.534305Z Server: Retrying               action=server-start attempt=7 duration=58.649668288 phase=attempt-complete username=hubtraf-72
+2020-05-19T23:34:25.565092Z Server: Retrying               action=server-start attempt=3 duration=20.697243205999996 phase=attempt-complete username=hubtraf-184
+2020-05-19T23:34:25.586799Z Server: Retrying               action=server-start attempt=6 duration=49.808014948 phase=attempt-complete username=hubtraf-106
+2020-05-19T23:34:25.825330Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-168
+2020-05-19T23:34:25.925437Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-31
+2020-05-19T23:34:25.927730Z Login: Complete                action=login duration=0.334611019999997 phase=complete username=hubtraf-198
+2020-05-19T23:34:25.928046Z Server: Starting               action=server-start phase=start username=hubtraf-198
+2020-05-19T23:34:25.928225Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-198
+2020-05-19T23:34:26.054542Z Server: Attempting to Starting action=server-start attempt=10 phase=attempt-start username=hubtraf-109
+2020-05-19T23:34:26.193161Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-66
+2020-05-19T23:34:26.196291Z Server: Retrying               action=server-start attempt=2 duration=11.312720278 phase=attempt-complete username=hubtraf-168
+2020-05-19T23:34:26.200280Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-122
+2020-05-19T23:34:26.233614Z Server: Retrying               action=server-start attempt=8 duration=68.366833903 phase=attempt-complete username=hubtraf-31
+2020-05-19T23:34:26.320130Z Server: Retrying               action=server-start attempt=1 duration=0.39209485700000357 phase=attempt-complete username=hubtraf-198
+2020-05-19T23:34:26.347907Z Server: Retrying               action=server-start attempt=10 duration=92.474226787 phase=attempt-complete username=hubtraf-109
+2020-05-19T23:34:26.374160Z Server: Retrying               action=server-start attempt=6 duration=60.427677906999996 phase=attempt-complete username=hubtraf-66
+2020-05-19T23:34:26.401895Z Server: Retrying               action=server-start attempt=4 duration=31.572469857 phase=attempt-complete username=hubtraf-122
+2020-05-19T23:34:26.693331Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-32
+2020-05-19T23:34:26.777113Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-24
+2020-05-19T23:34:26.864698Z Login: Complete                action=login duration=0.2692789970000007 phase=complete username=hubtraf-187
+2020-05-19T23:34:26.865247Z Server: Starting               action=server-start phase=start username=hubtraf-187
+2020-05-19T23:34:26.865534Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-187
+2020-05-19T23:34:26.927625Z Login: Complete                action=login duration=0.33291660700000136 phase=complete username=hubtraf-162
+2020-05-19T23:34:26.927918Z Server: Starting               action=server-start phase=start username=hubtraf-162
+2020-05-19T23:34:26.928149Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-162
+2020-05-19T23:34:26.952331Z Server: Retrying               action=server-start attempt=5 duration=34.152312648000006 phase=attempt-complete username=hubtraf-32
+2020-05-19T23:34:27.078803Z Login: Complete                action=login duration=0.48636322099999063 phase=complete username=hubtraf-12
+2020-05-19T23:34:27.079173Z Server: Starting               action=server-start phase=start username=hubtraf-12
+2020-05-19T23:34:27.079415Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-12
+2020-05-19T23:34:27.148626Z Login: Complete                action=login duration=0.554986864 phase=complete username=hubtraf-141
+2020-05-19T23:34:27.148967Z Server: Starting               action=server-start phase=start username=hubtraf-141
+2020-05-19T23:34:27.149226Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-141
+2020-05-19T23:34:27.183097Z Server: Retrying               action=server-start attempt=3 duration=20.297586408 phase=attempt-complete username=hubtraf-24
+2020-05-19T23:34:27.226451Z Server: Retrying               action=server-start attempt=1 duration=0.3612198390000003 phase=attempt-complete username=hubtraf-187
+2020-05-19T23:34:27.268054Z Server: Retrying               action=server-start attempt=1 duration=0.340154646000002 phase=attempt-complete username=hubtraf-162
+2020-05-19T23:34:27.310162Z Server: Retrying               action=server-start attempt=1 duration=0.23099796200000355 phase=attempt-complete username=hubtraf-12
+2020-05-19T23:34:27.335129Z Server: Retrying               action=server-start attempt=1 duration=0.1861694469999975 phase=attempt-complete username=hubtraf-141
+2020-05-19T23:34:27.637039Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-16
+2020-05-19T23:34:27.752343Z Server: Retrying               action=server-start attempt=9 duration=75.654185898 phase=attempt-complete username=hubtraf-16
+2020-05-19T23:34:27.925608Z Login: Complete                action=login duration=0.3353141909999948 phase=complete username=hubtraf-1
+2020-05-19T23:34:27.925960Z Server: Starting               action=server-start phase=start username=hubtraf-1
+2020-05-19T23:34:27.926139Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-1
+2020-05-19T23:34:27.979238Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-62
+2020-05-19T23:34:28.051421Z Server: Retrying               action=server-start attempt=1 duration=0.12546986999998921 phase=attempt-complete username=hubtraf-1
+2020-05-19T23:34:28.108875Z Server: Retrying               action=server-start attempt=8 duration=68.317518554 phase=attempt-complete username=hubtraf-62
+2020-05-19T23:34:28.170729Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-173
+2020-05-19T23:34:28.272197Z Server: Retrying               action=server-start attempt=7 duration=65.408058256 phase=attempt-complete username=hubtraf-173
+2020-05-19T23:34:28.344961Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-121
+2020-05-19T23:34:28.443476Z Server: Retrying               action=server-start attempt=6 duration=44.514492137999994 phase=attempt-complete username=hubtraf-121
+2020-05-19T23:34:28.466534Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-171
+2020-05-19T23:34:28.467951Z Server: Attempting to Starting action=server-start attempt=10 phase=attempt-start username=hubtraf-33
+2020-05-19T23:34:28.572709Z Server: Retrying               action=server-start attempt=10 duration=96.72069156100001 phase=attempt-complete username=hubtraf-33
+2020-05-19T23:34:28.594869Z Server: Retrying               action=server-start attempt=3 duration=18.54963436700001 phase=attempt-complete username=hubtraf-171
+2020-05-19T23:34:28.765094Z Server: Attempting to Starting action=server-start attempt=10 phase=attempt-start username=hubtraf-61
+2020-05-19T23:34:28.803525Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-20
+2020-05-19T23:34:28.859813Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-161
+2020-05-19T23:34:28.875813Z Server: Retrying               action=server-start attempt=10 duration=89.03992945600001 phase=attempt-complete username=hubtraf-61
+2020-05-19T23:34:28.912862Z Server: Retrying               action=server-start attempt=9 duration=75.04621563 phase=attempt-complete username=hubtraf-20
+2020-05-19T23:34:28.941175Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-38
+2020-05-19T23:34:29.011511Z Server: Retrying               action=server-start attempt=6 duration=47.12604639799999 phase=attempt-complete username=hubtraf-161
+2020-05-19T23:34:29.031759Z Server: Attempting to Starting action=server-start attempt=11 phase=attempt-start username=hubtraf-160
+2020-05-19T23:34:29.055589Z Server: Retrying               action=server-start attempt=9 duration=73.275905627 phase=attempt-complete username=hubtraf-38
+2020-05-19T23:34:29.082526Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-14
+2020-05-19T23:34:29.093657Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-101
+2020-05-19T23:34:29.171172Z Server: Retrying               action=server-start attempt=11 duration=97.138283143 phase=attempt-complete username=hubtraf-160
+2020-05-19T23:34:29.219381Z Server: Retrying               action=server-start attempt=3 duration=21.441331651000013 phase=attempt-complete username=hubtraf-14
+2020-05-19T23:34:29.246717Z Server: Retrying               action=server-start attempt=8 duration=62.297287024000006 phase=attempt-complete username=hubtraf-101
+2020-05-19T23:34:29.424137Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-119
+2020-05-19T23:34:29.533402Z Server: Retrying               action=server-start attempt=7 duration=55.656343650000004 phase=attempt-complete username=hubtraf-119
+2020-05-19T23:34:29.714349Z Server: Attempting to Starting action=server-start attempt=10 phase=attempt-start username=hubtraf-91
+2020-05-19T23:34:29.820870Z Server: Retrying               action=server-start attempt=10 duration=96.887056322 phase=attempt-complete username=hubtraf-91
+2020-05-19T23:34:29.877598Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-27
+2020-05-19T23:34:29.981585Z Server: Retrying               action=server-start attempt=5 duration=46.184939479 phase=attempt-complete username=hubtraf-27
+2020-05-19T23:34:30.138854Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-123
+2020-05-19T23:34:30.261014Z Server: Retrying               action=server-start attempt=6 duration=41.392767187 phase=attempt-complete username=hubtraf-123
+2020-05-19T23:34:30.372166Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-185
+2020-05-19T23:34:30.493095Z Server: Retrying               action=server-start attempt=6 duration=51.658561387000006 phase=attempt-complete username=hubtraf-185
+2020-05-19T23:34:30.816713Z Login: Complete                action=login duration=0.22500407799999778 phase=complete username=hubtraf-194
+2020-05-19T23:34:30.817058Z Server: Starting               action=server-start phase=start username=hubtraf-194
+2020-05-19T23:34:30.817238Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-194
+2020-05-19T23:34:30.905261Z Login: Complete                action=login duration=0.3144745900000032 phase=complete username=hubtraf-28
+2020-05-19T23:34:30.905599Z Server: Starting               action=server-start phase=start username=hubtraf-28
+2020-05-19T23:34:30.905782Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-28
+2020-05-19T23:34:31.009048Z Server: Retrying               action=server-start attempt=1 duration=0.19198835599999597 phase=attempt-complete username=hubtraf-194
+2020-05-19T23:34:31.043758Z Server: Retrying               action=server-start attempt=1 duration=0.13815813800000853 phase=attempt-complete username=hubtraf-28
+2020-05-19T23:34:31.053726Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-118
+2020-05-19T23:34:31.202940Z Server: Retrying               action=server-start attempt=3 duration=21.282508546999992 phase=attempt-complete username=hubtraf-118
+2020-05-19T23:34:31.222266Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-96
+2020-05-19T23:34:31.303384Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-4
+2020-05-19T23:34:31.318734Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-128
+2020-05-19T23:34:31.360899Z Server: Retrying               action=server-start attempt=8 duration=75.440685418 phase=attempt-complete username=hubtraf-96
+2020-05-19T23:34:31.578763Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-11
+2020-05-19T23:34:31.721018Z Server: Retrying               action=server-start attempt=3 duration=21.740820532 phase=attempt-complete username=hubtraf-4
+2020-05-19T23:34:31.775368Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-67
+2020-05-19T23:34:31.806149Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-116
+2020-05-19T23:34:31.868506Z Server: Retrying               action=server-start attempt=9 duration=76.97612861799999 phase=attempt-complete username=hubtraf-128
+2020-05-19T23:34:31.949639Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-10
+2020-05-19T23:34:32.044325Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-29
+2020-05-19T23:34:32.062087Z Server: Retrying               action=server-start attempt=4 duration=37.28950768599999 phase=attempt-complete username=hubtraf-11
+2020-05-19T23:34:32.086876Z Server: Retrying               action=server-start attempt=6 duration=44.23574682 phase=attempt-complete username=hubtraf-67
+2020-05-19T23:34:32.107131Z Server: Retrying               action=server-start attempt=5 duration=38.32413608900001 phase=attempt-complete username=hubtraf-116
+2020-05-19T23:34:32.124109Z Server: Retrying               action=server-start attempt=2 duration=12.271198181000003 phase=attempt-complete username=hubtraf-10
+2020-05-19T23:34:32.169772Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-41
+2020-05-19T23:34:32.170956Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-76
+2020-05-19T23:34:32.201683Z Server: Retrying               action=server-start attempt=4 duration=33.436282734 phase=attempt-complete username=hubtraf-29
+2020-05-19T23:34:32.277466Z Server: Retrying               action=server-start attempt=8 duration=80.419705592 phase=attempt-complete username=hubtraf-41
+2020-05-19T23:34:32.298004Z Server: Retrying               action=server-start attempt=4 duration=29.53513091299999 phase=attempt-complete username=hubtraf-76
+2020-05-19T23:34:32.338633Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-132
+2020-05-19T23:34:32.448031Z Server: Retrying               action=server-start attempt=6 duration=48.58356586400001 phase=attempt-complete username=hubtraf-132
+2020-05-19T23:34:32.556200Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-94
+2020-05-19T23:34:32.581689Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-5
+2020-05-19T23:34:32.661490Z Server: Retrying               action=server-start attempt=2 duration=11.871747274 phase=attempt-complete username=hubtraf-94
+2020-05-19T23:34:32.684044Z Server: Retrying               action=server-start attempt=5 duration=45.801560337999994 phase=attempt-complete username=hubtraf-5
+2020-05-19T23:34:32.684768Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-127
+2020-05-19T23:34:32.759046Z Server: Attempting to Starting action=server-start attempt=3 phase=attempt-start username=hubtraf-55
+2020-05-19T23:34:32.766101Z Login: Complete                action=login duration=0.1743701949999945 phase=complete username=hubtraf-125
+2020-05-19T23:34:32.766459Z Server: Starting               action=server-start phase=start username=hubtraf-125
+2020-05-19T23:34:32.766638Z Server: Attempting to Starting action=server-start attempt=1 phase=attempt-start username=hubtraf-125
+2020-05-19T23:34:32.767744Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-179
+2020-05-19T23:34:32.820826Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-15
+2020-05-19T23:34:32.863782Z Server: Attempting to Starting action=server-start attempt=11 phase=attempt-start username=hubtraf-19
+2020-05-19T23:34:32.884186Z Server: Retrying               action=server-start attempt=6 duration=58.041558333000005 phase=attempt-complete username=hubtraf-127
+2020-05-19T23:34:32.904678Z Server: Retrying               action=server-start attempt=2 duration=8.088414712000002 phase=attempt-complete username=hubtraf-179
+2020-05-19T23:34:32.947163Z Server: Retrying               action=server-start attempt=1 duration=0.180706480000012 phase=attempt-complete username=hubtraf-125
+2020-05-19T23:34:32.950323Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-72
+2020-05-19T23:34:32.965397Z Server: Retrying               action=server-start attempt=3 duration=20.07656436299999 phase=attempt-complete username=hubtraf-55
+2020-05-19T23:34:33.008265Z Server: Retrying               action=server-start attempt=6 duration=55.207071578 phase=attempt-complete username=hubtraf-15
+2020-05-19T23:34:33.072869Z Server: Attempting to Starting action=server-start attempt=6 phase=attempt-start username=hubtraf-133
+2020-05-19T23:34:33.103277Z Server: Retrying               action=server-start attempt=11 duration=101.290580452 phase=attempt-complete username=hubtraf-19
+2020-05-19T23:34:33.105594Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-34
+2020-05-19T23:34:33.124338Z Server: Retrying               action=server-start attempt=8 duration=66.239924217 phase=attempt-complete username=hubtraf-72
+2020-05-19T23:34:33.215544Z Server: Retrying               action=server-start attempt=6 duration=53.426902080000005 phase=attempt-complete username=hubtraf-133
+2020-05-19T23:34:33.244987Z Server: Retrying               action=server-start attempt=4 duration=30.412720140999994 phase=attempt-complete username=hubtraf-34
+2020-05-19T23:34:33.464770Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-182
+2020-05-19T23:34:33.544697Z Server: Attempting to Starting action=server-start attempt=8 phase=attempt-start username=hubtraf-130
+2020-05-19T23:34:33.596213Z Server: Retrying               action=server-start attempt=4 duration=31.724913525999995 phase=attempt-complete username=hubtraf-182
+2020-05-19T23:34:33.657232Z Server: Retrying               action=server-start attempt=8 duration=71.837367605 phase=attempt-complete username=hubtraf-130
+2020-05-19T23:34:33.947599Z Server: Attempting to Starting action=server-start attempt=5 phase=attempt-start username=hubtraf-159
+2020-05-19T23:34:34.053586Z Server: Retrying               action=server-start attempt=5 duration=47.260784104 phase=attempt-complete username=hubtraf-159
+2020-05-19T23:34:34.239985Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-199
+2020-05-19T23:34:34.246724Z Server: Attempting to Starting action=server-start attempt=7 phase=attempt-start username=hubtraf-97
+2020-05-19T23:34:34.252354Z Server: Attempting to Starting action=server-start attempt=9 phase=attempt-start username=hubtraf-42
+2020-05-19T23:34:34.353766Z Server: Retrying               action=server-start attempt=4 duration=28.434828531999997 phase=attempt-complete username=hubtraf-199
+2020-05-19T23:34:34.386544Z Server: Retrying               action=server-start attempt=7 duration=58.526644313 phase=attempt-complete username=hubtraf-97
+2020-05-19T23:34:34.399654Z Server: Retrying               action=server-start attempt=9 duration=74.542182169 phase=attempt-complete username=hubtraf-42
+2020-05-19T23:34:34.453738Z Server: Attempting to Starting action=server-start attempt=2 phase=attempt-start username=hubtraf-99
+2020-05-19T23:34:34.526409Z Server: Attempting to Starting action=server-start attempt=4 phase=attempt-start username=hubtraf-65
+2020-05-19T23:34:34.559452Z Server: Retrying               action=server-start attempt=2 duration=11.715140102999996 phase=attempt-complete username=hubtraf-99
+2020-05-19T23:34:34.645595Z Server: Retrying               action=server-start attempt=4 duration=31.749753979999994 phase=attempt-complete username=hubtraf-65
