@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='hubtraf',
-    version='0.1',
+    version='0.2-oneilsh',
     url='https://github.com/yuvipanda/hubtraf',
     license='3-clause BSD',
     author='YuviPanda',
